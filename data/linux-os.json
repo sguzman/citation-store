@@ -1,0 +1,7050 @@
+[
+  {
+    "note": [
+      "Server listening on 0.0.0.0 port 22."
+    ],
+    "title": [
+      "Nov 23 10:29:16 mycomputer sshd[1781"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Nov 23 10:29:41 mycomputer pam: gdm-password[2041]: pam_unix(gdm-password:session): session opened for user foxr by (uid=0"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Nov 20 11:01:01 mycomputer anacron[5013]: Anacron started on 2012-11-20 Nov 20 15:10:01 mycomputer CROND[5042]: (foxr) CMD (./my_scheduled_script >> output.txt) Nov 20 16:43:01 mycomputer CROND[5311]: (foxr) CMD (echo \"did this work?\") Nov 18 03:49:01 mycomputer run-parts(/etc/cron.daily)[14361]: starting logrotate"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "[0;32m OK [0m] Reached target Initrd Root File System. Starting Reload Configuration from the Real Root... [[0;32m OK [0m] Started Reload Configuration from the Real Root. [[0;32m OK [0m] Reached target Initrd File Systems"
+    ],
+    "note": [
+      "[0;32m OK [0m] Reached target Initrd Default Target. Starting dracut pre-pivot and cleanup hook... [[0;32m OK [0m] Started dracut pre-pivot and cleanup hook."
+    ],
+    "title": [
+      "A subdirectory of /var/log is audit which is used by the auditd service to store its log information. auditd is responsible for logging general activities of the users. A few of the types of ------------ Tue Dec 15 08:21:44 EST 2020 ------------[[0;32m OK [0m] Mounted /sysroot"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "02/14/2021"
+    ],
+    "issue": [
+      "11"
+    ],
+    "pages": [
+      "– – 35602"
+    ],
+    "type": null,
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "02/14/2021 10:15:59 foxr ? ? /usr/sbin/userhelper yes 35609 4. 02/14/2021 10:22:35 root ? pts/0 /bin/su yes 35617"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "-----------------------------------------------------------------10."
+    ],
+    "note": [
+      "02/14/2021 10:15:59 35609 USER_AUTH 1000 yes 13. 02/14/2021 10:15:59 35610 USER_ACCT 1000 yes"
+    ],
+    "title": [
+      "02/14/2021 10:11:16 35607 USER_START 1000 yes 11. 02/14/2021 10:11:16 35608 USER_LOGIN 1000 yes 12"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bibliography Abrams",
+        "given": "M."
+      },
+      {
+        "family": "LaPadula",
+        "given": "L."
+      },
+      {
+        "family": "Eggers",
+        "given": "K."
+      },
+      {
+        "family": "Olson",
+        "given": "I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 13th National Computer Security Conference"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "135–143,"
+    ],
+    "title": [
+      "A Generalized Framework for Access Control: An Informal Description"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Accetta",
+        "given": "M."
+      },
+      {
+        "family": "Baron",
+        "given": "R."
+      },
+      {
+        "family": "Bolosky",
+        "given": "W."
+      },
+      {
+        "family": "Golub",
+        "given": "D."
+      },
+      {
+        "family": "Rashid",
+        "given": "R."
+      },
+      {
+        "family": "Tevanian",
+        "given": "A."
+      },
+      {
+        "family": "Young",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Summer 1986 USENIX Conference"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "93–112,"
+    ],
+    "title": [
+      "Mach: A New Kernel Foundation for Unix Development"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Adelstein",
+        "given": "T."
+      },
+      {
+        "family": "Lubanovic",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Sebastopol, CA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Linux System Administration"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Aho",
+        "given": "A."
+      },
+      {
+        "family": "Kernighan",
+        "given": "B."
+      },
+      {
+        "family": "Weinberger",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The AWK Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Al-Hafeedh",
+        "given": "A."
+      },
+      {
+        "family": "Crochemore",
+        "given": "M."
+      },
+      {
+        "family": "Ilie",
+        "given": "L."
+      },
+      {
+        "family": "Kopylova",
+        "given": "E."
+      },
+      {
+        "family": "Smyth",
+        "given": "W."
+      },
+      {
+        "family": "Tishcler",
+        "given": "G."
+      },
+      {
+        "family": "Yusufu",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "2012"
+    ],
+    "issue": [
+      "ue 1, 5:9–5:17, Article 5"
+    ],
+    "title": [
+      "A Comparison of index-based Lempel-Ziv LZ77 factorization algorithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Network Maintenance and Troubleshooting Guide: Field Tested Solutions for Everyday Problems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Almesberger",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Ottawa Linux Symposium"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Booting Linux: The History and the Future"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Almgren",
+        "given": "M."
+      },
+      {
+        "family": "Debar",
+        "given": "H."
+      },
+      {
+        "family": "Dacier",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Networks and Distributed System Security Symposium"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "157–170,"
+    ],
+    "title": [
+      "A Lightweight Tool for Detecting Web Server Attacks"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Network Security"
+    ],
+    "date": [
+      "2007"
+    ],
+    "issue": [
+      "ue 5"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "pages": [
+      "4–7,"
+    ],
+    "publisher": [
+      "Elsevier Science Publishers"
+    ],
+    "title": [
+      "Convergence: A holistic approach to risk management"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2007"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Aulds",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Laguna Beach, CA"
+    ],
+    "publisher": [
+      "SYBEX"
+    ],
+    "title": [
+      "Linux Apache Web Server Administration"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bach",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "The Design of the Unix Operating System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bagherzadeh",
+        "given": "M."
+      },
+      {
+        "family": "Kahani",
+        "given": "N."
+      },
+      {
+        "family": "Bezemer",
+        "given": "C."
+      },
+      {
+        "family": "Hassan",
+        "given": "A."
+      },
+      {
+        "family": "Dingel",
+        "given": "J."
+      },
+      {
+        "family": "Cordy",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Empirical Software Engineering"
+    ],
+    "date": [
+      "2018"
+    ],
+    "issue": [
+      "ue 3"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "1519–1551,"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Analyzing a decade of Linux system calls"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Balasubramanian",
+        "given": "K."
+      },
+      {
+        "family": "Johnson",
+        "given": "D.Linux Memory Management Overview"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "The Linux Kernel Hacker’s Guide"
+    ],
+    "type": null,
+    "url": [
+      "http://www.redhat.com:8080/HyperNews/get/memory/memory.html,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bar",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Linux File Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "D."
+      },
+      {
+        "family": "Silverman",
+        "given": "R."
+      },
+      {
+        "family": "Byrnes",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Linux Security Cookbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bembenek",
+        "given": "J."
+      },
+      {
+        "family": "Klus",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Grep Pocket Reference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bennett",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "CD-ROM Professional"
+    ],
+    "title": [
+      "CD-E: Call It Erasable, Call It Rewritable, but Will It Fly?"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Benvenuti",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Understanding Linux Network Internals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Berry",
+        "given": "D.Copy"
+      },
+      {
+        "given": "Rip"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Pluto Press"
+    ],
+    "title": [
+      "Burn: The Politics of Copyleft and Open Source"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Billimoria",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "location": [
+      "Birmingham"
+    ],
+    "publisher": [
+      "Packt"
+    ],
+    "title": [
+      "Linux Kernel Programming: A Comprehensive Guide to Kernel Internals, Writing Kernel Modules, and Kernel Synchronization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Black",
+        "given": "D."
+      },
+      {
+        "family": "Golub",
+        "given": "D."
+      },
+      {
+        "family": "Julin",
+        "given": "D."
+      },
+      {
+        "family": "Rashid",
+        "given": "R."
+      },
+      {
+        "family": "Draves",
+        "given": "R."
+      },
+      {
+        "family": "Dean",
+        "given": "R."
+      },
+      {
+        "family": "Forin",
+        "given": "A."
+      },
+      {
+        "family": "Barrera",
+        "given": "J."
+      },
+      {
+        "family": "Tokadu",
+        "given": "H."
+      },
+      {
+        "family": "Malan",
+        "given": "G."
+      },
+      {
+        "family": "Bohman",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the USENIX Workshop on Micro-Kernels and Other Kernel Architectures"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "11–30,"
+    ],
+    "title": [
+      "Microkernel Operating System Architecture and Mach"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Blum",
+        "given": "R."
+      },
+      {
+        "family": "Bresnahan",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley & Sons"
+    ],
+    "title": [
+      "Linux Command Line and Shell Scripting Bible"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bonaccorsi",
+        "given": "A."
+      },
+      {
+        "family": "Rossi",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Research Policy"
+    ],
+    "date": [
+      "2003"
+    ],
+    "issue": [
+      "ue 7"
+    ],
+    "pages": [
+      "1149–1292,"
+    ],
+    "publisher": [
+      "Elsevier"
+    ],
+    "title": [
+      "Why open source software can succeed"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Both",
+        "given": "D.systemd"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "location": [
+      "Berkeley, CA"
+    ],
+    "pages": [
+      "379–410,"
+    ],
+    "publisher": [
+      "Apress"
+    ],
+    "title": [
+      "Using and Administering Linux"
+    ],
+    "type": "book",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bourne",
+        "given": "S.R."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "issue": [
+      "ue 6"
+    ],
+    "location": [
+      "NJ"
+    ],
+    "pages": [
+      "1971–1990,"
+    ],
+    "publisher": [
+      "American Telephone and Telegraph Company"
+    ],
+    "title": [
+      "The UNIX Shell, The Bell System Technical Journal"
+    ],
+    "type": "book",
+    "volume": [
+      "57"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bovet",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Understanding the Linux Kernel"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bradley",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Canadian Journal of Communication"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "585–611,"
+    ],
+    "title": [
+      "The Divergent Anarcho-Utopian discourses of the open source software movement"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bridger",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Orlando, FL"
+    ],
+    "publisher": [
+      "CSC Press"
+    ],
+    "title": [
+      "Introduction to Human Factors and Ergonomics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brinch",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Classic Operating Systems: From Batch Processing to Distributed Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brookshear",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Computer Science: An Overview"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dover"
+    ],
+    "title": [
+      "Boolean Reasoning: The Logic of Boolean Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "zOS JCL (Job Control Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Burtch",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Linux Shell Scripting with Bash"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Calderon",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Birmingham"
+    ],
+    "publisher": [
+      "Packt Publishing"
+    ],
+    "title": [
+      "Nmap: Network Exploration and Security Auditing Cookbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Callaghan",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "NFS Illustrated"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ceruzzi",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "The MIT Press"
+    ],
+    "title": [
+      "A History of Modern Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chau",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "European Journal of Information Systems"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "ue 4"
+    ],
+    "pages": [
+      "292–302,"
+    ],
+    "title": [
+      "Selection of packaged software in small business"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "P."
+      },
+      {
+        "family": "Lee",
+        "given": "E."
+      },
+      {
+        "family": "Gibson",
+        "given": "G."
+      },
+      {
+        "family": "Katz",
+        "given": "R."
+      },
+      {
+        "family": "Patterson",
+        "given": "D.R.A.I.D."
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "ue 2"
+    ],
+    "pages": [
+      "145–185,"
+    ],
+    "title": [
+      "High-performance, reliable secondary storage"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chervenak",
+        "given": "A."
+      },
+      {
+        "family": "Vellanki",
+        "given": "V."
+      },
+      {
+        "family": "Kurmas",
+        "given": "Z."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Joint NASA and IEEE Mass Storage Conference"
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Protecting File Systems: A Survey of Backup Techniques"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Cheung",
+        "given": "W."
+      },
+      {
+        "family": "Loong",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Operating Systems Review"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "4–16,"
+    ],
+    "title": [
+      "Exploring issues of operating systems structuring: From microkernel to extensible systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ciampa",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Thomson Course Technologies"
+    ],
+    "title": [
+      "Security+ Guide to Network Security Fundamentals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Clements",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Oxford"
+    ],
+    "title": [
+      "The Principles of Computer Hardware"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cole",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley and Sons"
+    ],
+    "title": [
+      "Network Security Bible"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Comer",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Internetworking with TCP/IP"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Corner",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Computer Networks and Internets"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "R."
+      },
+      {
+        "family": "Muthitacharoen",
+        "given": "A."
+      },
+      {
+        "family": "Morris",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Lecture Notes in Computer Science"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "155–165,"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Serving DNS using a peer-to-peer lookup service"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2429"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cramer",
+        "given": "R."
+      },
+      {
+        "family": "Shoup",
+        "given": "V."
+      }
+    ],
+    "container-title": [
+      "SIAM Journal on Computing"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "167–226,"
+    ],
+    "title": [
+      "Design and analysis of practical public-key encryption schemes secure against adaptive chosen ciphertext attack"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Crawley",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "location": [
+      "Seattle, WA"
+    ],
+    "publisher": [
+      "CreateSpace"
+    ],
+    "title": [
+      "The Accidental Administrator: Linux Server Step-by-Step Configuration Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dada",
+        "given": "E."
+      },
+      {
+        "family": "Bassi",
+        "given": "J."
+      },
+      {
+        "family": "Chiroma",
+        "given": "H."
+      },
+      {
+        "family": "Adetunmbi",
+        "given": "A."
+      },
+      {
+        "family": "Ajibuwa",
+        "given": "O."
+      }
+    ],
+    "container-title": [
+      "Heliyon"
+    ],
+    "date": [
+      "2019"
+    ],
+    "issue": [
+      "ue 6"
+    ],
+    "pages": [
+      "01802,"
+    ],
+    "title": [
+      "Machine learning for Email spam filtering: Review, approaches and open research problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dallheimer",
+        "given": "M."
+      },
+      {
+        "family": "Welsh",
+        "given": "M.Running Linux"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "D."
+      },
+      {
+        "family": "Swick",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "ACM SIGOPS Operating Systems Review"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "ue 4"
+    ],
+    "pages": [
+      "64–67,"
+    ],
+    "title": [
+      "Network security via private-key certificates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Goyeneche",
+        "given": "J.",
+        "particle": "De"
+      }
+    ],
+    "container-title": [
+      "IEEE Software"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "ue 1"
+    ],
+    "pages": [
+      "65–71,"
+    ],
+    "title": [
+      "Loadable kernel modules"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Denning",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the December 9–11 1968 AFIPS Fall Join Computer Conference"
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "915–922,"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "Thrashing: Its Causes and Prevention"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Denning",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1970"
+    ],
+    "issue": [
+      "ue 3"
+    ],
+    "pages": [
+      "153–189,"
+    ],
+    "title": [
+      "Virtual memory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Denning",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 3rd International Workshop on Modeling, Analysis and Simulation of Computer and Telecommunication Systems"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "2–7,"
+    ],
+    "title": [
+      "A Short Theory of Multiprogramming"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Dijkstra",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1968"
+    ],
+    "issue": [
+      "ue 5"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "341–346,"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "The structure of the THE multiprogramming system"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Doeppner",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley and Sons"
+    ],
+    "title": [
+      "Operating Systems in Depth: Design and Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Droms",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "IEEE Internet Computing"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "ue 4"
+    ],
+    "pages": [
+      "45–53,"
+    ],
+    "title": [
+      "Automated configuration of TCP/IP with DHCP"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Durumeric",
+        "given": "Z."
+      },
+      {
+        "family": "Li",
+        "given": "F."
+      },
+      {
+        "family": "Kasten",
+        "given": "J."
+      },
+      {
+        "family": "Amann",
+        "given": "J."
+      },
+      {
+        "family": "Beekman",
+        "given": "J."
+      },
+      {
+        "family": "Payer",
+        "given": "M."
+      },
+      {
+        "family": "Weaver",
+        "given": "N."
+      },
+      {
+        "family": "Adrian",
+        "given": "D."
+      },
+      {
+        "family": "Paxson",
+        "given": "V."
+      },
+      {
+        "family": "Bailey",
+        "given": "M."
+      },
+      {
+        "family": "Halderman",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 2014 Conference on Internet Measurement Conference"
+    ],
+    "date": [
+      "2014"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "475–488,"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "The Matter of Heartbleed"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Easttom",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Computer Security Fundamentals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ebrahim",
+        "given": "M."
+      },
+      {
+        "family": "Mallett",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "Birmingham"
+    ],
+    "publisher": [
+      "Packt"
+    ],
+    "title": [
+      "Mastering Linux Shell Scripting: A Practical Guide to Linux Command-line, Bash Scripting and Shell Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Economides",
+        "given": "N."
+      },
+      {
+        "family": "Katsamakas",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "The Economics of Open Software Development"
+    ],
+    "date": [
+      "2006"
+    ],
+    "editor": [
+      {
+        "family": "Bitzer",
+        "given": "J."
+      },
+      {
+        "family": "Schroder",
+        "given": "P."
+      }
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "publisher": [
+      "Elsevier"
+    ],
+    "title": [
+      "Linux vs. windows: a comparison of application and platform innovation incentives for open source and proprietary software platforms"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Elmasri",
+        "given": "R."
+      },
+      {
+        "family": "Carrick",
+        "given": "A."
+      },
+      {
+        "family": "Levine",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Operating Systems: A Spiral Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fedora",
+        "given": "D.O.C.S."
+      }
+    ],
+    "type": null,
+    "url": [
+      "https://docs.fedoraproject.org/en-US/docs/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fenwick",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Computer Journal"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "ue 9"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "731–740,"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "The burrows-wheeler transform for block sorting text compression: Principles and improvements"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fitzgerald",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "MIS Quarterly"
+    ],
+    "date": [
+      "2006"
+    ],
+    "issue": [
+      "ue 30"
+    ],
+    "pages": [
+      "587–598,"
+    ],
+    "title": [
+      "The transformation of open source software"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Forouzan",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "TCP/IP Protocol Suite"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Forouzan",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Data Communications and Networking"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fox",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Information Technology: An Introduction for Today’s Digital World"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fox",
+        "given": "R."
+      },
+      {
+        "family": "Hao",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Internet Infrastructure: Networking, Web Services and Cloud Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Friedl",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Mastering Regular Expressions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Frisch",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Essential System Administration"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gajewska",
+        "given": "H."
+      },
+      {
+        "family": "Manasse",
+        "given": "M."
+      },
+      {
+        "family": "McCormack",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Software—Practice & Experience"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "ue S2"
+    ],
+    "title": [
+      "Why X is not our ideal window system"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Galov",
+        "given": "N."
+      },
+      {
+        "family": "Gancarz",
+        "given": "M.",
+        "particle": "blog/linux-statistics/."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Daytona Beach, FL"
+    ],
+    "publisher": [
+      "Digital Press"
+    ],
+    "title": [
+      "111+ Linux Statistics and Facts – Linux Rocks!, Hosting Tribunal blog",
+      "Linux and the Unix Philosophy"
+    ],
+    "type": "book",
+    "url": [
+      "https://hostingtribunal.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Garfinkel",
+        "given": "S."
+      },
+      {
+        "family": "Spafford",
+        "given": "G."
+      },
+      {
+        "family": "Schwartz",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Practical Unix and Internet Security"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Garrels",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "location": [
+      "CA"
+    ],
+    "publisher": [
+      "Fultus Corporation"
+    ],
+    "title": [
+      "Bash Guide for Beginners"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Garrido",
+        "given": "J."
+      },
+      {
+        "family": "Schlesinger",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "location": [
+      "Burlington, MA"
+    ],
+    "publisher": [
+      "Jones and Bartlett"
+    ],
+    "title": [
+      "Principles of Modern Operating Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gay",
+        "given": "J."
+      },
+      {
+        "family": "Stallman",
+        "given": "R."
+      },
+      {
+        "family": "Lessig",
+        "given": "L.Free Software"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "Seattle, WA"
+    ],
+    "publisher": [
+      "Stallman",
+      "CreateSpace"
+    ],
+    "title": [
+      "Free Society: Selected Essays of Richard M"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Geisshirt",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Birmingham"
+    ],
+    "publisher": [
+      "Packt"
+    ],
+    "title": [
+      "Pluggable Authentication Modules"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gillay",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "OR"
+    ],
+    "publisher": [
+      "Franklin, Beedle & Associates"
+    ],
+    "title": [
+      "Linux User’s Guide: Using the Command Line and Gnome Red Hat Linux"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "GNU/Free Software Foundation, General Public License, http://www.gnu.org/copyleft/gpl.html."
+      },
+      {
+        "family": "Goldman",
+        "given": "D."
+      },
+      {
+        "family": "Bonzini",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "location": [
+      "Renton, WA"
+    ],
+    "publisher": [
+      "EHDP Press"
+    ],
+    "title": [
+      "GNU/Free Software Foundation, GNU Make",
+      "Definitive Guide to Sed: Tutorial and Reference"
+    ],
+    "type": "book",
+    "url": [
+      "https://www.gnu.org/software/make/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gomberg",
+        "given": "M."
+      },
+      {
+        "family": "Evard",
+        "given": "R."
+      },
+      {
+        "family": "Stacey",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Proceedings of USENIX Technical Program on Large Installation System Administration of Windows NT Conference"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "37–48,"
+    ],
+    "title": [
+      "A Comparison of Large-Scale Software Installation Methods on NT and Unix"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Goodheart",
+        "given": "B."
+      },
+      {
+        "family": "Cox",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "The Magic Garden Explained: The Internals of UNIX System V Release 4 An Open Systems Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Goyal",
+        "given": "V."
+      },
+      {
+        "family": "Horman",
+        "given": "N."
+      },
+      {
+        "family": "Ohmichi",
+        "given": "K."
+      },
+      {
+        "family": "Soni",
+        "given": "M."
+      },
+      {
+        "family": "Garg",
+        "given": "A.Kdump"
+      }
+    ],
+    "container-title": [
+      "Ottawa Linux Symposium"
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Smarter, Easier, Trustier"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Goyvaerts",
+        "given": "J."
+      },
+      {
+        "family": "Levithan",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Regular Expressions Cookbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Grampp",
+        "given": "F."
+      },
+      {
+        "family": "Morris",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "AT&T Bell Laboratories Technical Journal"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "1649–1672,"
+    ],
+    "title": [
+      "UNIX operating-system security"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Green",
+        "given": "R."
+      },
+      {
+        "family": "Baird",
+        "given": "A."
+      },
+      {
+        "family": "Davies",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Digital Technical Journal of Digital Equipment Corporation"
+    ],
+    "date": [
+      "1986"
+    ],
+    "issue": [
+      "ue 2"
+    ],
+    "pages": [
+      "32–45,"
+    ],
+    "title": [
+      "Designing a fast, on-line backup system for a log-structured file system"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gregg",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley-IEEE Press"
+    ],
+    "title": [
+      "Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Groom",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "Annual Review of Communications"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "695–707,"
+    ],
+    "title": [
+      "The structure and software of the internet"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Guttman",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "IEEE Internet Computing"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "ue 4"
+    ],
+    "pages": [
+      "71–80,"
+    ],
+    "title": [
+      "Service location protocol: automatic discovery of IP network services"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Haff",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Apress"
+    ],
+    "title": [
+      "How Open Source Ate Software: Understanding the Open Source Movement and So Much More"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hagen",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "IPv6 Essentials"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Halsall",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Data Communications, Computer Networks, and Open Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hamming",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Bell System Technical Journal"
+    ],
+    "date": [
+      "1950"
+    ],
+    "issue": [
+      "ue 2"
+    ],
+    "pages": [
+      "147–160,"
+    ],
+    "title": [
+      "Error detecting and error correcting codes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "date": [
+      "2010"
+    ],
+    "editor": [
+      {
+        "family": "Hansen",
+        "given": "P."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Classic Operating Systems: From Batch Processing to Distributed Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Harker",
+        "given": "J."
+      },
+      {
+        "family": "Brede",
+        "given": "D."
+      },
+      {
+        "family": "Pattison",
+        "given": "R."
+      },
+      {
+        "family": "Santana",
+        "given": "G."
+      },
+      {
+        "family": "Taft",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "1981"
+    ],
+    "issue": [
+      "ue 5"
+    ],
+    "pages": [
+      "677–689,"
+    ],
+    "title": [
+      "A quarter century of disk file innovation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Harkins",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Apress"
+    ],
+    "title": [
+      "Managing Risk and Information Security: Protect to Enable"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hartig",
+        "given": "H."
+      },
+      {
+        "family": "Hohmuth",
+        "given": "M."
+      },
+      {
+        "family": "Liedtke",
+        "given": "J."
+      },
+      {
+        "family": "Schonberg",
+        "given": "S."
+      },
+      {
+        "family": "Wolter",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 16th ACM Symposium on Operating Systems Principles"
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "The Performance of Micro-Kernel-Based Systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hecker",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "IEEE Software"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "ue 1"
+    ],
+    "pages": [
+      "45–51,"
+    ],
+    "title": [
+      "Setting up shop: the business of open-source software"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Helmke",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Ubuntu Unleashed"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hennessy",
+        "given": "J."
+      },
+      {
+        "family": "Patterson",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "publisher": [
+      "Morgan Kaufman"
+    ],
+    "title": [
+      "Computer Architecture: A Quantitative Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hicks",
+        "given": "B."
+      },
+      {
+        "family": "Rueda",
+        "given": "S."
+      },
+      {
+        "family": "Clair",
+        "given": "L.",
+        "particle": "St."
+      },
+      {
+        "family": "Jaeger",
+        "given": "T."
+      },
+      {
+        "family": "McDaniel",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Information and System Security"
+    ],
+    "date": [
+      "2010"
+    ],
+    "issue": [
+      "ue 3"
+    ],
+    "pages": [
+      "26–31,"
+    ],
+    "title": [
+      "A logical specification and analysis for SELinux MLS policy"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hill",
+        "given": "B."
+      },
+      {
+        "family": "Burger",
+        "given": "C."
+      },
+      {
+        "family": "Jesse",
+        "given": "J."
+      },
+      {
+        "family": "Bacon",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "The Official Ubuntu Book"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Holcombe",
+        "given": "C."
+      },
+      {
+        "family": "Holcombe",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Education"
+    ],
+    "title": [
+      "Survey of Operating Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Howser",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Computer Networks and the Internet: A Hands-On Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hunt",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "TCP/IP Network Administration"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacob",
+        "given": "B."
+      },
+      {
+        "family": "Mudge",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "IEEE Micro Magazine"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "60–75,"
+    ],
+    "title": [
+      "Virtual memory in contemporary multiprocessors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jacob",
+        "given": "B."
+      },
+      {
+        "family": "Wang",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Cache, DRAM, Disk, San Francisco, CA"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Memory Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jang",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "location": [
+      "Burlington, MA"
+    ],
+    "publisher": [
+      "Jones and Bartlett"
+    ],
+    "title": [
+      "Security Strategies in Linux Platforms and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kalkhanda",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "Birmingham"
+    ],
+    "publisher": [
+      "Packt"
+    ],
+    "title": [
+      "CentOS Quick Start Guide: Get Up and Running with CentOS Server Administration"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kalkhanda",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "Birmingham"
+    ],
+    "publisher": [
+      "Packt"
+    ],
+    "title": [
+      "Learning AWK Programming: A Fast and Simple Cutting-edge Utility for Text-Processing on the Unix-like Environment"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kamel",
+        "given": "M."
+      },
+      {
+        "family": "Keast",
+        "given": "J."
+      },
+      {
+        "family": "Pal",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "genre": [
+      "technical report,",
+      "N2L 3G1."
+    ],
+    "location": [
+      "Waterloo, Ontario"
+    ],
+    "publisher": [
+      "University of Waterloo",
+      "Department of Electrical and Computer Engineering, Department of Computer Science"
+    ],
+    "title": [
+      "Concrete Architecture of the Linux Kernel"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Katz",
+        "given": "J."
+      },
+      {
+        "family": "Lindell",
+        "given": "Y."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Introduction to Modern Cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kernighan",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "publisher": [
+      "Independently Published"
+    ],
+    "title": [
+      "UNIX: A History and a Memoir"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kernighan",
+        "given": "B."
+      },
+      {
+        "family": "Pike",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "The Unix Programming Environment"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kernighan",
+        "given": "B."
+      },
+      {
+        "family": "Ritchie",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "The C Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kiddle",
+        "given": "O."
+      },
+      {
+        "family": "Stephenson",
+        "given": "P."
+      },
+      {
+        "family": "Peek",
+        "given": "J.From Bash to Z.Shell"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Apress Media LLC"
+    ],
+    "title": [
+      "Conquering the Command Line"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirkbride",
+        "given": "P.systemd"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "location": [
+      "Berkeley, CA"
+    ],
+    "pages": [
+      "221–234,"
+    ],
+    "publisher": [
+      "Apress"
+    ],
+    "title": [
+      "Basic Linux Terminal Tips and Tricks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirtch",
+        "given": "O."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Linux Network Administrator’s Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Journal of Algorithms"
+    ],
+    "date": [
+      "1985"
+    ],
+    "issue": [
+      "ue 2"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "pages": [
+      "163–180,"
+    ],
+    "publisher": [
+      "Elsevier"
+    ],
+    "title": [
+      "Dynamic huffman coding"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Krishnamurthy",
+        "given": "B."
+      },
+      {
+        "family": "Rexford",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Web Protocols and Practice: HTTP/1.1, Networking Protocols, Caching and Traffic Measure"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 20th Annual Conference of the National Advisory Committee on Computing Qualifications"
+    ],
+    "date": [
+      "2007"
+    ],
+    "editor": [
+      {
+        "family": "Mann",
+        "given": "S."
+      },
+      {
+        "family": "Bridgeman",
+        "given": "N."
+      }
+    ],
+    "pages": [
+      "117–123,"
+    ],
+    "title": [
+      "Migration from Microsoft to Linux on Servers and Desktops"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Langfeldt",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Indianapolis, IN"
+    ],
+    "publisher": [
+      "Que Corp"
+    ],
+    "title": [
+      "The Concise Guide to DNS and Bind"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Laurent",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Understanding Open Source and Free Software Licensing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Leach",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley and Sons"
+    ],
+    "title": [
+      "Advanced Topics in UNIX: Processes, Files and Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "LeBlanc",
+        "given": "D."
+      },
+      {
+        "family": "Yates",
+        "given": "I."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Scottsdale, AZ"
+    ],
+    "publisher": [
+      "Coriolis Open Press"
+    ],
+    "title": [
+      "Linux Install and Configuration Little Black Book: The Must-Have Troubleshooting Guide to Installing and Configuring Linux"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ledin",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "location": [
+      "Birmingham"
+    ],
+    "publisher": [
+      "Packt"
+    ],
+    "title": [
+      "Modern Computer Architecture and Organization: Learn x86, ARM and RISC-V Architectures and the Design of Smartphones, PCs, and Cloud Servers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lempel",
+        "given": "A."
+      },
+      {
+        "family": "Ziv",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Information Theory"
+    ],
+    "date": [
+      "1976"
+    ],
+    "issue": [
+      "ue 1"
+    ],
+    "pages": [
+      "75–81,"
+    ],
+    "title": [
+      "On the complexity of finite sequences"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "J.",
+        "given": "Lerner"
+      },
+      {
+        "family": "A.",
+        "given": "Pathak P."
+      },
+      {
+        "family": "Tirole",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "American Economic Review"
+    ],
+    "date": [
+      "2006"
+    ],
+    "issue": [
+      "ue 2"
+    ],
+    "pages": [
+      "114–118,"
+    ],
+    "title": [
+      "The dynamics of open source contributors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "96"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lewine",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "POSIX Programmer’s Guide: Writing Portable Unix Programs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "Y."
+      },
+      {
+        "family": "Li",
+        "given": "W."
+      },
+      {
+        "family": "Jiang",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Third International Symposium on Electronic Commerce and Security"
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "A Survey of Virtual Machine Systems: Current Technology and Future Trends"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Liang",
+        "given": "Y."
+      },
+      {
+        "family": "Liang",
+        "given": "Y."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Introduction to Java Programming and Data Structures"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Liedtke",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Fifteenth ACM Symposium on Operating Systems Principles"
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "On Micro-Kernel Construction"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Liedtke",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "ue 9"
+    ],
+    "pages": [
+      "70–79,"
+    ],
+    "title": [
+      "Toward real microkernels"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Limoncelli",
+        "given": "T."
+      },
+      {
+        "family": "Hogan",
+        "given": "C."
+      },
+      {
+        "family": "Chalup",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Practice of System and Network Administration"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lin",
+        "given": "Y."
+      },
+      {
+        "family": "Hwang",
+        "given": "R."
+      },
+      {
+        "family": "Baker",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Computer Networks: An Open Source Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "DNS and BIND on IPv6: DNS for the Next-Generation Internet"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Loscocco",
+        "given": "P."
+      },
+      {
+        "family": "Smalley",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the FREENIX Track: 2001 USENIX Annual Technical Conference, The USENIX Association"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "CA"
+    ],
+    "pages": [
+      "29–42,"
+    ],
+    "publisher": [
+      "USENIX Association"
+    ],
+    "title": [
+      "Integrating Flexible Support for Security Policies into the Linux Operating System"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Love",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Linux Kernel Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lu",
+        "given": "L."
+      },
+      {
+        "family": "Arpaci-Dusseau",
+        "given": "A."
+      },
+      {
+        "family": "Arpaci-Dusseau",
+        "given": "R."
+      },
+      {
+        "family": "Lu",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Storage"
+    ],
+    "date": [
+      "2014"
+    ],
+    "issue": [
+      "ue 1"
+    ],
+    "pages": [
+      "1–32,"
+    ],
+    "title": [
+      "A study of Linux file system evolution"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Luotonen",
+        "given": "A."
+      },
+      {
+        "family": "Altis",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "ue 2"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "pages": [
+      "147–154,"
+    ],
+    "publisher": [
+      "Elsevier"
+    ],
+    "title": [
+      "World-Wide Web Proxies, Computer Networks and ISDN Systems"
+    ],
+    "type": "book",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mallett",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "location": [
+      "Birmingham"
+    ],
+    "publisher": [
+      "Packt"
+    ],
+    "title": [
+      "CentOS System Administration Essentials"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mann",
+        "given": "S."
+      },
+      {
+        "family": "Mitchell",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Linux System Security: The Administrator’s Guide to Open Source Security Tools"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mansfield",
+        "given": "K."
+      },
+      {
+        "family": "Antonakos",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Thomson Course Technology"
+    ],
+    "title": [
+      "Computer Networking for LANs to WANs: Hardware, Software and Security"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Markatos",
+        "given": "E."
+      },
+      {
+        "family": "Katevenis",
+        "given": "M."
+      },
+      {
+        "family": "Pnevmatikatos",
+        "given": "D."
+      },
+      {
+        "family": "Flouris",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of USITS 99: The 2nd Conference on USENIX Symposium on Internet Technologies and Systems"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "CA"
+    ],
+    "pages": [
+      "93–114,"
+    ],
+    "publisher": [
+      "USENIX"
+    ],
+    "title": [
+      "Secondary Storage Management for Web Proxies"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Matotek",
+        "given": "D."
+      },
+      {
+        "family": "Turnbull",
+        "given": "J."
+      },
+      {
+        "family": "Lieverdink",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Apress"
+    ],
+    "title": [
+      "Pro Linux System Administration: Learn to Build Systems for Your Business Using Free and Open Source Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Matthews",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Apress"
+    ],
+    "title": [
+      "Computer Networking: Internet Protocols in Action"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mauelshagen",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Red Hat Magazine"
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Logical Volume Manager (LVM2"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Mauerer",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wrox"
+    ],
+    "title": [
+      "Professional Linux Kernel Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meeker",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley & Sons"
+    ],
+    "title": [
+      "The Open Source Alternative: Understanding Risks and Leveraging Opportunities"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Melve",
+        "given": "I."
+      },
+      {
+        "family": "Slettjord",
+        "given": "L."
+      },
+      {
+        "family": "Bekker",
+        "given": "H."
+      },
+      {
+        "family": "Verschuren",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 1997 NLANR Web Cache Workshop"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "CA"
+    ],
+    "publisher": [
+      "National Laboratory for Applied Network Research"
+    ],
+    "title": [
+      "Building a Web Caching System—Architectural Considerations"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Menezes",
+        "given": "A."
+      },
+      {
+        "family": "Oorschot",
+        "given": "P."
+      },
+      {
+        "family": "Vanstone",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Handbook of Applied Cryptography (Discrete Mathematics and Its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Miles",
+        "given": "S.Linux Closing in on Microsoft Market Share"
+      },
+      {
+        "family": "Says",
+        "given": "Study"
+      }
+    ],
+    "container-title": [
+      "CENT News.com"
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "om/2100-1001-243527.html?tag=mainstry"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://news."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mockapetris",
+        "given": "P."
+      },
+      {
+        "family": "Dunlap",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "SIGCOMM 88 Symposium Proceedings on Communications Architectures and Protocols"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "123–133,"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "Development of the Domain Name System"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Moody",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Basic Books"
+    ],
+    "title": [
+      "Rebel Code: Linux and the Open Source Revolution"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Morris",
+        "given": "R."
+      },
+      {
+        "family": "Thompson",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1979"
+    ],
+    "issue": [
+      "ue 11"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "594–597,"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "Password security: a case history"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Moshe",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Linux File Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mustonen",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Information Economics and Policy"
+    ],
+    "date": [
+      "2003"
+    ],
+    "issue": [
+      "ue 1"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "pages": [
+      "99–121,"
+    ],
+    "publisher": [
+      "Elsevier"
+    ],
+    "title": [
+      "Copyleft—the economics of Linux and other open source software"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Negus",
+        "given": "C."
+      },
+      {
+        "family": "Boronczyk",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley and Sons"
+    ],
+    "title": [
+      "CentOS Bible"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Negus",
+        "given": "C."
+      },
+      {
+        "family": "Bresnahan",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley and Sons"
+    ],
+    "title": [
+      "Linux Bible"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nemeth",
+        "given": "E."
+      },
+      {
+        "family": "Snyder",
+        "given": "G."
+      },
+      {
+        "family": "Hein",
+        "given": "T."
+      },
+      {
+        "family": "Whaley",
+        "given": "B."
+      },
+      {
+        "family": "Mackin",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Unix and Linux System Administration Handbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Newham",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Learning the Bash Shell: Unix Shell Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Null",
+        "given": "L."
+      },
+      {
+        "family": "Lobur",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "Burlington, MA"
+    ],
+    "publisher": [
+      "Jones and Bartlett"
+    ],
+    "title": [
+      "The Essentials of Computer Organization and Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Odom",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Indianapolis, IN"
+    ],
+    "publisher": [
+      "Cisco Press"
+    ],
+    "title": [
+      "Computer Networking First-Step"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "O’Regan",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Introduction to the History of Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Otero",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "Auerbach Publications"
+    ],
+    "title": [
+      "Information Technology Control and Audit"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Paar",
+        "given": "C."
+      },
+      {
+        "family": "Pelzl",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Understanding Cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pate",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley and Sons"
+    ],
+    "title": [
+      "UNIX Filesystems: Evolution, Design and Implementation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Patterson",
+        "given": "D."
+      },
+      {
+        "family": "Gibson",
+        "given": "G."
+      },
+      {
+        "family": "Katz",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings of SIGMOD ‘88"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "109–116,"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "A Case for Redundant Arrays of Inexpensive Disks (RAID"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Patterson",
+        "given": "D."
+      },
+      {
+        "family": "Hennessy",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Organization and Design: The Hardware/Software Interface"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Peek",
+        "given": "J."
+      },
+      {
+        "family": "Powers",
+        "given": "S."
+      },
+      {
+        "family": "O’Reilly",
+        "given": "T."
+      },
+      {
+        "family": "Loukides",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "Unix Power Tools",
+      "O’Reilly"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Peterson",
+        "given": "L."
+      },
+      {
+        "family": "Davie",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Networks: A Systems Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Petersen",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Linux: The Complete Reference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pfleeger",
+        "given": "C."
+      },
+      {
+        "family": "Pfleeger",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Security in Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Plank",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Software Practice and Experience"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "ue 9"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "pages": [
+      "995–1012,"
+    ],
+    "publisher": [
+      "Wiley and Sons"
+    ],
+    "title": [
+      "A Tutorial on reed-solomon coding for fault-tolerance in RAID-like systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Portnoy",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Sybex"
+    ],
+    "title": [
+      "Virtualization Essentials"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Prabhakaran",
+        "given": "V."
+      },
+      {
+        "family": "Arpaci-Dusseau",
+        "given": "A."
+      },
+      {
+        "family": "Arpaci-Dusseau",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "USENIX ‘05 Online Proceedings"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "105–120,"
+    ],
+    "title": [
+      "Analysis and Evolution of Journaling File Systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Prasse",
+        "given": "P."
+      },
+      {
+        "family": "Sawade",
+        "given": "C."
+      },
+      {
+        "family": "Landwehr",
+        "given": "N."
+      },
+      {
+        "family": "Scheffer",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Journal of Machine Learning Research"
+    ],
+    "date": [
+      "2015"
+    ],
+    "issue": [
+      "ue 1"
+    ],
+    "pages": [
+      "3687–3720,"
+    ],
+    "title": [
+      "Learning to identify concise regular expressions that describe email campaigns"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Puryear",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Penton"
+    ],
+    "title": [
+      "Best Practices for Managing Linux and Unix Servers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Quarterman",
+        "given": "J."
+      },
+      {
+        "family": "Hoskins",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1986"
+    ],
+    "issue": [
+      "ue 10"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "932–971,"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "Notable computer networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Quigley",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "UNIX Shells by Example"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ramey",
+        "given": "C."
+      },
+      {
+        "family": "Fox",
+        "given": "B.Bash Reference Manual"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "publisher": [
+      "Network Theory LTD"
+    ],
+    "type": "book",
+    "url": [
+      "http://www.gnu.org/software/bash/manual,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rash",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "San Fransico, CA"
+    ],
+    "publisher": [
+      "No Starch Press"
+    ],
+    "title": [
+      "Linux Firewalls: Attack Detection and Response with iptables, psad and fwsnort"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Raymond",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Red Hat"
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "pages": [
+      "– 8 ,"
+    ],
+    "title": [
+      "Product Documentation for Red Hat Enterprise Linux 8"
+    ],
+    "type": null,
+    "url": [
+      "https://access.redhat.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Refsdal",
+        "given": "A."
+      },
+      {
+        "family": "Solhaug",
+        "given": "B."
+      },
+      {
+        "family": "Stolen",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Cyber-Risk Management"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rescorla",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Linux Journal"
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "ue 89"
+    ],
+    "pages": [
+      "3,"
+    ],
+    "title": [
+      "An introduction to openssl programming"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2001"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reynolds",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Cengage"
+    ],
+    "title": [
+      "Ethics in Information Technology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Riehle",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "2007"
+    ],
+    "issue": [
+      "ue 4"
+    ],
+    "pages": [
+      "25–32,"
+    ],
+    "title": [
+      "The economic motivation of open source: stakeholder perspectives"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ritchie",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Lecture Notes on Computer Science"
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "The Evolution of the UNIX Time-Sharing System, Language Design and Programming Methodology"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "79"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ritchie",
+        "given": "D."
+      },
+      {
+        "family": "Thompson",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1974"
+    ],
+    "issue": [
+      "ue 7"
+    ],
+    "pages": [
+      "365–375,"
+    ],
+    "title": [
+      "The UNIX time-sharing system"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robbins",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "VI Editor Pocket Reference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Robbins",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Sed and Awk: A Pocket Reference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Robbins",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Bash Pocket Reference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Robbins",
+        "given": "A."
+      },
+      {
+        "family": "Beebe",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Classic Shell Scripting"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodeh",
+        "given": "O."
+      },
+      {
+        "family": "Bacik",
+        "given": "J."
+      },
+      {
+        "family": "Mason",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Storage"
+    ],
+    "date": [
+      "2013"
+    ],
+    "issue": [
+      "ue 3"
+    ],
+    "pages": [
+      "1–32,"
+    ],
+    "title": [
+      "BTRFS: the Linux B-tree filesystem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rosenfeld",
+        "given": "L."
+      },
+      {
+        "family": "Downey",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Think Perl 6: How to Think Like a Computer Scientist"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ross",
+        "given": "K."
+      },
+      {
+        "family": "Kurose",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Computer Networking: A Top-Down Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Royon",
+        "given": "Y."
+      },
+      {
+        "family": "Frenot",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "genre": [
+      "Technical report arXiv:0706.2748v2,"
+    ],
+    "publisher": [
+      "Cornell University Library"
+    ],
+    "title": [
+      "A Survey of Unix Init Schemes"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Rusen",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "location": [
+      "Redmond, WA"
+    ],
+    "publisher": [
+      "Microsoft Press"
+    ],
+    "title": [
+      "Networking Your Computers & Devices Step by Step"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rusling",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "The Linux Kernel"
+    ],
+    "type": null,
+    "url": [
+      "http://sunsite.unc.edu/Linux/LDP/tlk/tlk.html,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ryan",
+        "given": "P."
+      }
+    ],
+    "note": [
+      "com/ apple/2007/09/linux-marketshare-set-to-surpass-windows-98, 2007."
+    ],
+    "title": [
+      "Linux Market Share Set to Surpass Win 98, OS X Still Ahead of Vista"
+    ],
+    "type": null,
+    "url": [
+      "http://arstechnica."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Saini",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "location": [
+      "Birmingham"
+    ],
+    "publisher": [
+      "Packt Publishing"
+    ],
+    "title": [
+      "Squid Proxy Server 3.1: Beginner’s Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Salas",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Virginia Beach, VA"
+    ],
+    "publisher": [
+      "Reed Media Services"
+    ],
+    "title": [
+      "The Daemon, the GNU and the Penguin"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1994"
+    ],
+    "editor": [
+      {
+        "family": "Salus",
+        "given": "P."
+      }
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "A Quarter Century of Unix"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Samar",
+        "given": "V."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 3rd ACM Conference on Computer and Communications Security"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "1–10,"
+    ],
+    "publisher": [
+      "ACM Press"
+    ],
+    "title": [
+      "Unified Login with Pluggable Authentication Modules"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Sandberg",
+        "given": "R."
+      },
+      {
+        "family": "Goldberg",
+        "given": "D."
+      },
+      {
+        "family": "Kleiman",
+        "given": "S."
+      },
+      {
+        "family": "Walsh",
+        "given": "D."
+      },
+      {
+        "family": "Lyon",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 1985 USENIX Summer Conference"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "119–130,"
+    ],
+    "title": [
+      "Design and Implementation of the Sun Network File System"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Sandhu",
+        "given": "R."
+      },
+      {
+        "family": "Samarati",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "IEEE Communications"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "40–48,"
+    ],
+    "title": [
+      "Access control: principles and practice"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sarwar",
+        "given": "S."
+      },
+      {
+        "family": "Koretsky",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Unix: The Textbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sawicki",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Thomson"
+    ],
+    "title": [
+      "Guide to Apache"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schach",
+        "given": "S."
+      },
+      {
+        "family": "Jin",
+        "given": "B."
+      },
+      {
+        "family": "Wright",
+        "given": "D."
+      },
+      {
+        "family": "Heller",
+        "given": "G."
+      },
+      {
+        "family": "Offutt",
+        "given": "A.Maintainability of the Linux Kernel"
+      }
+    ],
+    "container-title": [
+      "IEE Proceedings—Software"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "ue 1"
+    ],
+    "location": [
+      "London"
+    ],
+    "pages": [
+      "18–23,"
+    ],
+    "publisher": [
+      "Institute of Engineering and Technology"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "149"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Scheifler",
+        "given": "R."
+      },
+      {
+        "family": "Gettys",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Daytona Beach, FL"
+    ],
+    "publisher": [
+      "Digital Press"
+    ],
+    "title": [
+      "X Window System: Core and Extension Protocols: X Version 11, Releases 6 and 6.1"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schneier",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley & Sons"
+    ],
+    "title": [
+      "Applied Cryptography: Protocols, Algorithms and Source Code in C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schwartz",
+        "given": "M.Linux Job Scheduling"
+      }
+    ],
+    "container-title": [
+      "Linux Journal"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "ue 77, Article 8"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2000"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sebesta",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Concepts of Programming Languages"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Shoch",
+        "given": "J."
+      },
+      {
+        "family": "Dalal",
+        "given": "Y."
+      },
+      {
+        "family": "Redell",
+        "given": "D."
+      },
+      {
+        "family": "Crane",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1982"
+    ],
+    "issue": [
+      "ue 8"
+    ],
+    "pages": [
+      "10–27,"
+    ],
+    "title": [
+      "Evolution of the ethernet local computer network"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Shotts Jr., W."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "location": [
+      "San Fransico, CA"
+    ],
+    "publisher": [
+      "No Starch Press"
+    ],
+    "title": [
+      "The Linux Command Line: A Complete Introduction"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Siever",
+        "given": "E."
+      },
+      {
+        "family": "Weber",
+        "given": "A."
+      },
+      {
+        "family": "Figgins",
+        "given": "S."
+      },
+      {
+        "family": "Love",
+        "given": "R."
+      },
+      {
+        "family": "Robbins",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "Riley"
+    ],
+    "title": [
+      "Linux in a Nutshell: A Desktop Quick Reference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Silberschatz",
+        "given": "A."
+      },
+      {
+        "family": "Galvin",
+        "given": "P."
+      },
+      {
+        "family": "Gagne",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley & Sons"
+    ],
+    "title": [
+      "Operating System Concepts"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Silva",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Thomson Course Technology"
+    ],
+    "title": [
+      "Web Server Administration"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sloan",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Network Troubleshooting Tools"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smalley",
+        "given": "S."
+      },
+      {
+        "family": "Fraser",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "NAI Labs Technical Report"
+    ],
+    "title": [
+      "A Security Policy Configuration for the Security-Enhanced Linux"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smyth",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "location": [
+      "Cary, NC"
+    ],
+    "publisher": [
+      "Payload"
+    ],
+    "title": [
+      "Red Hat Enterprise Linux 8 Essentials: Learn to Install, Administer and Deploy RHEL 8 Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobell",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "A Practical Guide to Ubuntu Linux"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobell",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "and Shell Programming"
+    ],
+    "date": [
+      "2017"
+    ],
+    "editor": [
+      {
+        "literal": "Editors"
+      }
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "A Practical Guide to Linux Commands"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Spafford",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1989"
+    ],
+    "issue": [
+      "ue 6"
+    ],
+    "pages": [
+      "6 78–687,"
+    ],
+    "title": [
+      "The internet worm: crisis and aftermath"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Laurent",
+        "given": "A.",
+        "particle": "St."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Understanding Open Source and Free Software Licensing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stallings",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Data and Computer Communications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stallings",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Computer Organization and Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stallings",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Cryptography and Network Security: Principles and Practices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stallings",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Operating Systems: Internals and Design Principles"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stallings",
+        "given": "W."
+      },
+      {
+        "family": "Brown",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Computer Security: Principles and Practices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stallman",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "editor": [
+      {
+        "family": "DiBona",
+        "given": "C."
+      },
+      {
+        "family": "Ockman",
+        "given": "S."
+      },
+      {
+        "family": "Stone",
+        "given": "M."
+      }
+    ],
+    "location": [
+      "Sebastopol, CA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "The GNU Operating System and the Free Software Movement, Open Sources: Voices from the Open Source Revolution"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stallman",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Why ‘Free Software’ Is Better than ‘Open Source’"
+    ],
+    "type": null,
+    "url": [
+      "http://www.gnu.org/philosophy/free-"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stallman",
+        "given": "R."
+      },
+      {
+        "family": "Gay",
+        "given": "J.Free Software"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Stallman",
+      "SoHo Books"
+    ],
+    "title": [
+      "Free Society: Selected Essays of Richard M"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stankovic",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1982"
+    ],
+    "issue": [
+      "ue 4"
+    ],
+    "pages": [
+      "19–25,"
+    ],
+    "title": [
+      "Software communication mechanisms: procedure calls versus messages"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Statcounter, Operating System Market Share Worldwide, https://gs.statcounter.com/os-market-share. Stewart, J. and Kinsey, D. Network Security"
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "location": [
+      "Burlington, MA"
+    ],
+    "publisher": [
+      "Jones and Bartlett"
+    ],
+    "title": [
+      "Firewalls, and VPNs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stubblebine",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Regular Expression Pocket Reference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tam",
+        "given": "L."
+      },
+      {
+        "family": "Glassman",
+        "given": "M."
+      },
+      {
+        "family": "Vandenwauver",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Behaviour & Information Technology"
+    ],
+    "date": [
+      "2010"
+    ],
+    "issue": [
+      "ue 3"
+    ],
+    "pages": [
+      "233–244,"
+    ],
+    "title": [
+      "The psychology of password management: a tradeoff between security and convenience"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Structured Computer Organization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Modern Operating Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A.Feamster"
+      },
+      {
+        "given": "N."
+      },
+      {
+        "family": "Wetherall",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2020"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Computer Networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A."
+      },
+      {
+        "family": "Herder",
+        "given": "J."
+      },
+      {
+        "family": "Bos",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "2006"
+    ],
+    "issue": [
+      "ue 5"
+    ],
+    "pages": [
+      "44–51,"
+    ],
+    "title": [
+      "Can we make operating systems reliable and secure?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tevanian",
+        "given": "A."
+      },
+      {
+        "family": "Rashid",
+        "given": "R."
+      },
+      {
+        "family": "Golub",
+        "given": "D."
+      },
+      {
+        "family": "Black",
+        "given": "Dl"
+      },
+      {
+        "family": "Cooper",
+        "given": "E."
+      },
+      {
+        "family": "Young",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Summer 1987 USENIX Conference"
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Mach Threads and the UNIX Kernel: The Battle for Control"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tirgari",
+        "given": "V."
+      }
+    ],
+    "container-title": [
+      "Journal of Management Information and Decision Sciences"
+    ],
+    "date": [
+      "2012"
+    ],
+    "issue": [
+      "ue 2"
+    ],
+    "pages": [
+      "87–106,"
+    ],
+    "title": [
+      "Information technology policies and procedures against unstructured data: a phenomenological study of information technology professionals"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Toigo",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Disaster Recovery Planning: Preparing for the Unthinkable"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tominaga",
+        "given": "A."
+      },
+      {
+        "family": "Nakamura",
+        "given": "O."
+      },
+      {
+        "family": "Teraoka",
+        "given": "F."
+      },
+      {
+        "family": "Murai",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Proceedings of INET 95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Problems and Solutions of DHCP"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Toxen",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Real World Linux Security: Intrusion Prevention, Detection, and Recovery"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ts’o",
+        "given": "T."
+      },
+      {
+        "family": "Tweedie",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the FREENIX Track: 2002 USENIX Annual Technical Conference"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "235–243,"
+    ],
+    "title": [
+      "Planned Extensions to the Linux Ext2/Ext3 Filesystem"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "title": [
+      "Ubuntu Documentation Team, Official Ubuntu Documentation"
+    ],
+    "type": null,
+    "url": [
+      "https://help.ubuntu.com/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Uti",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 2009 International Conference on Wireless Networks"
+    ],
+    "date": [
+      "2009"
+    ],
+    "issue": [
+      "ICWN ‘09"
+    ],
+    "pages": [
+      "368– 373,"
+    ],
+    "title": [
+      "Real Time Mobile Video Streaming Using Wavelet Transformation and Run-Length Coding"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vacca",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer and Information Security Handbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Winkle",
+        "given": "L.",
+        "particle": "Van"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "location": [
+      "Birmingham"
+    ],
+    "publisher": [
+      "Packt"
+    ],
+    "title": [
+      "Hands-On Network Programming with C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Vance",
+        "given": "N."
+      },
+      {
+        "family": "Polik",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "Linux Journal"
+    ],
+    "date": [
+      "2016"
+    ],
+    "pages": [
+      "80–88,"
+    ],
+    "title": [
+      "Understanding firewalld in Multi-zone Configurations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "269"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vermeulen",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "location": [
+      "Birmingham"
+    ],
+    "publisher": [
+      "Packt"
+    ],
+    "title": [
+      "SELinux Cookbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Viega",
+        "given": "J."
+      },
+      {
+        "family": "Messier",
+        "given": "M."
+      },
+      {
+        "family": "Chandra",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Network Security with openSSL: Cryptography for Secure Communications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Warford",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "Burlington, MA"
+    ],
+    "publisher": [
+      "Jones and Bartlett"
+    ],
+    "title": [
+      "Computer Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Watt",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wrox"
+    ],
+    "title": [
+      "Beginning Regular Expressions (Programmer to Programmer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Welch",
+        "given": "T.A."
+      }
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "1984"
+    ],
+    "issue": [
+      "ue 6"
+    ],
+    "pages": [
+      "8–19,"
+    ],
+    "title": [
+      "A technique for high performance data compression"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wells",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Thomson Course Technology"
+    ],
+    "title": [
+      "The Complete Guide to Linux System Administration"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wessels",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Squid: The Definitive Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "West",
+        "given": "J."
+      },
+      {
+        "family": "Dean",
+        "given": "T."
+      },
+      {
+        "family": "Andrews",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Cengage"
+    ],
+    "title": [
+      "Network+Guide to Networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Whitesitt",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dover"
+    ],
+    "title": [
+      "Boolean Algebra and Its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Williams",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "Seattle, WA"
+    ],
+    "publisher": [
+      "CreateSpace"
+    ],
+    "title": [
+      "Free as in Freedom: Richard Stallman’s Crusade for Free Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wright",
+        "given": "L.D.P./sag/html/indexhtml"
+      },
+      {
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Linux Symposium"
+    ],
+    "date": [
+      "2002"
+    ],
+    "editor": [
+      {
+        "family": "Wirzenius",
+        "given": "L."
+      }
+    ],
+    "pages": [
+      "604–610,"
+    ],
+    "title": [
+      "Linux System Administrator’s Guide, Linux Documentation Project",
+      "Linux Security Module Framework"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.tldp.org/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "C."
+      },
+      {
+        "family": "Gerlach",
+        "given": "J."
+      },
+      {
+        "family": "Young",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Information and Management"
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "pages": [
+      "253–262,"
+    ],
+    "publisher": [
+      "Elsevier"
+    ],
+    "title": [
+      "An empirical analysis of open source software developers’ motivations and continuance intentions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ziv",
+        "given": "J."
+      },
+      {
+        "family": "Lempel",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Information Theory"
+    ],
+    "date": [
+      "1978"
+    ],
+    "issue": [
+      "ue 5"
+    ],
+    "location": [
+      "CA"
+    ],
+    "note": [
+      "Index Note: Bold page numbers refer to tables; italic page numbers refer to figures."
+    ],
+    "pages": [
+      "530–536,"
+    ],
+    "publisher": [
+      "IEEE"
+    ],
+    "title": [
+      "Compression of individual sequences via variable-rate coding"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  }
+]
