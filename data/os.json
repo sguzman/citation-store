@@ -1,0 +1,4886 @@
+[
+  {
+    "author": [
+      {
+        "literal": "Hennessy and Patterson (2012)] J. Hennessy and D. Patterson"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "edition": [
+      "Fifth"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Architecture: A Quantitative Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Kurose and Ross (2017)] J. Kurose and K. Ross"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "edition": [
+      "Seventh"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Computer Networking — A Top–Down Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Levin (2013)] J. Levin"
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Mac OS X and iOS Internals to the Apple’s Core"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Levin (2015)] J. Levin"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Android Internals – A Confectioner’s Cookbook"
+    ],
+    "type": null,
+    "volume": [
+      "I"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Love"
+      }
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "publisher": [
+      "Third Edition, Developer’s Library"
+    ],
+    "title": [
+      "R. Love, Linux Kernel Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "McDougall and Mauro (2007)] R. McDougall and J. Mauro"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "Second Edition, Prentice Hall"
+    ],
+    "title": [
+      "Solaris Internals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Russinovich"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Russinovich",
+        "given": "M."
+      },
+      {
+        "family": "Solomon",
+        "given": "D.A."
+      },
+      {
+        "family": "Ionescu",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "genre": [
+      "Part 1,"
+    ],
+    "publisher": [
+      "Seventh Edition, Microsoft Press"
+    ],
+    "title": [
+      "Windows Internals"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Stallings (2017)] W. Stallings"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "edition": [
+      "9th Edition) Ninth"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Operating Systems, Internals and Design Principles"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Tanenbaum (2014)] A. S. Tanenbaum"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Modern Operating Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Atlidakis"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Atlidakis",
+        "given": "V."
+      },
+      {
+        "family": "Andrus",
+        "given": "J."
+      },
+      {
+        "family": "Geambasu",
+        "given": "R."
+      },
+      {
+        "family": "Mitropoulos",
+        "given": "D."
+      },
+      {
+        "family": "Nieh",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2016",
+      "2016"
+    ],
+    "pages": [
+      "1–19 17"
+    ],
+    "title": [
+      "POSIX Abstractions in Modern Operating Systems: The Old, the New, and the Missing"
+    ],
+    "type": null,
+    "volume": [
+      19
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Bryant and O’Hallaron (2015)] R. Bryant and D. O’Hallaron"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "edition": [
+      "Third"
+    ],
+    "title": [
+      "Computer Systems: A Programmer’s Perspective"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Gregg (2014)] B. Gregg"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Systems Performance – Enterprise and the Cloud, Pearson"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Levin (2013)] J. Levin"
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Mac OS X and iOS Internals to the Apple’s Core"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Levin (2015)] J. Levin"
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "Android Internals – A Confectioner’s Cookbook"
+    ],
+    "type": null,
+    "volume": [
+      "I"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Love"
+      }
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "publisher": [
+      "Third Edition, Developer’s Library"
+    ],
+    "title": [
+      "R. Love, Linux Kernel Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Mauerer (2008)] W. Mauerer"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "Professional Linux Kernel Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "McDougall and Mauro (2007)] R. McDougall and J. Mauro"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "Second Edition, Prentice Hall"
+    ],
+    "title": [
+      "Solaris Internals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "McKusick"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "McKusick",
+        "given": "M.K."
+      },
+      {
+        "family": "Neville-Neil",
+        "given": "G.V."
+      },
+      {
+        "family": "Watson",
+        "given": "R.N.M."
+      }
+    ],
+    "date": [
+      "2015",
+      "2015"
+    ],
+    "publisher": [
+      "Second Edition, Pearson"
+    ],
+    "title": [
+      "The Design and Implementation of the FreeBSD UNIX Operating System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Russinovich"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Russinovich",
+        "given": "M."
+      },
+      {
+        "family": "Solomon",
+        "given": "D.A."
+      },
+      {
+        "family": "Ionescu",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "genre": [
+      "Part 1,"
+    ],
+    "publisher": [
+      "Seventh Edition, Microsoft Press"
+    ],
+    "title": [
+      "Windows Internals"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Ward (2015)] B. Ward"
+      }
+    ],
+    "note": [
+      "Second Edition, No Starch Press (2015)."
+    ],
+    "title": [
+      "How LINUX Works – What Every Superuser Should Know"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Harold (2005)] E. R. Harold"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "publisher": [
+      "Third Edition, O’Reilly & Associates"
+    ],
+    "title": [
+      "Java Network Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Hart (2005)] J. M. Hart"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "publisher": [
+      "Third Edition, Addison-Wesley"
+    ],
+    "title": [
+      "Windows System Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Holland and Seltzer (2011)] D. Holland and M. Seltzer"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 13th USENIX conference on Hot topics in operating systems"
+    ],
+    "date": [
+      "2011"
+    ],
+    "pages": [
+      "33–33"
+    ],
+    "title": [
+      "Multicore OSes: Looking Forward from 1991, er, 2011”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Levin (2013)] J. Levin"
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Mac OS X and iOS Internals to the Apple’s Core"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Love"
+      }
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "publisher": [
+      "Third Edition, Developer’s Library"
+    ],
+    "title": [
+      "R. Love, Linux Kernel Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Robbins and Robbins (2003)] K. Robbins and S. Robbins"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Second Edition, Prentice Hall"
+    ],
+    "title": [
+      "Unix Systems Programming: Communication, Concurrency and Threads"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Russinovich"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Russinovich",
+        "given": "M."
+      },
+      {
+        "family": "Solomon",
+        "given": "D.A."
+      },
+      {
+        "family": "Ionescu",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "note": [
+      "Seventh Edition, Microsoft Press (2017). Exercises EX-4"
+    ],
+    "title": [
+      "Windows Internals – Part 1"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Aubanel"
+      }
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "E. Aubanel, Elements of Parallel Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Herlihy and Shavit (2012)] M. Herlihy and N. Shavit"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "publisher": [
+      "Morgan Kaufmann Publishers Inc"
+    ],
+    "title": [
+      "The Art of Multiprocessor Programming, Revised First Edition"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Levin (2013)] J. Levin"
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Mac OS X and iOS Internals to the Apple’s Core"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Love"
+      }
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "publisher": [
+      "Third Edition, Developer’s Library"
+    ],
+    "title": [
+      "R. Love, Linux Kernel Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Mauerer (2008)] W. Mauerer"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "Professional Linux Kernel Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "McDougall and Mauro (2007)] R. McDougall and J. Mauro"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "Second Edition, Prentice Hall"
+    ],
+    "title": [
+      "Solaris Internals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Russinovich"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Russinovich",
+        "given": "M."
+      },
+      {
+        "family": "Solomon",
+        "given": "D.A."
+      },
+      {
+        "family": "Ionescu",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "genre": [
+      "Part 1,"
+    ],
+    "publisher": [
+      "Seventh Edition, Microsoft Press"
+    ],
+    "title": [
+      "Windows Internals"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Vahalia (1996)] U. Vahalia"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "note": [
+      "Exercises EX-8"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Unix Internals: The New Frontiers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Butenhof (1997)] D. Butenhof"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Programming with POSIX Threads"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Kongetira"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Kongetira",
+        "given": "P."
+      },
+      {
+        "family": "Aingaran",
+        "given": "K."
+      },
+      {
+        "family": "Olukotun",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "IEEE Micro Magazine"
+    ],
+    "date": [
+      "2005",
+      "2005"
+    ],
+    "pages": [
+      "21–29"
+    ],
+    "title": [
+      "Niagara: A 32-Way Multithreaded SPARC Processor”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Lewis and Berg (1998)] B. Lewis and D. Berg"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Sun Microsystems Press"
+    ],
+    "title": [
+      "Multithreaded Programming with Pthreads"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Mauro and McDougall (2007)] J. Mauro and R. McDougall"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Solaris Internals: Core Kernel Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "McKusick"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "McKusick",
+        "given": "M.K."
+      },
+      {
+        "family": "Neville-Neil",
+        "given": "G.V."
+      },
+      {
+        "family": "Watson",
+        "given": "R.N.M."
+      }
+    ],
+    "date": [
+      "2015",
+      "2015"
+    ],
+    "publisher": [
+      "Second Edition, Pearson"
+    ],
+    "title": [
+      "The Design and Implementation of the FreeBSD UNIX Operating System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "McNairy and Bhatia (2005)] C. McNairy and R. Bhatia"
+      }
+    ],
+    "container-title": [
+      "IEEE Micro Magazine"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "10–20"
+    ],
+    "title": [
+      "Montecito: A Dual–Core, Dual-Threaded Itanium Processor”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Russinovich"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Russinovich",
+        "given": "M."
+      },
+      {
+        "family": "Solomon",
+        "given": "D.A."
+      },
+      {
+        "family": "Ionescu",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "genre": [
+      "Part 1,"
+    ],
+    "publisher": [
+      "Seventh Edition, Microsoft Press"
+    ],
+    "title": [
+      "Windows Internals"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Siddha"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Siddha",
+        "given": "S."
+      },
+      {
+        "family": "Pallipadi",
+        "given": "V."
+      },
+      {
+        "family": "Mallick",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Intel Technology Journal"
+    ],
+    "date": [
+      "2007",
+      "2007"
+    ],
+    "title": [
+      "Process Scheduling Challenges in the Era of Multi-Core Processors”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Bahra (2013)] S. A. Bahra"
+      }
+    ],
+    "container-title": [
+      "ACM queue"
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "Nonblocking Algorithms and Scalable Multicore Programming”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11, Number 5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Brinch-Hansen"
+      }
+    ],
+    "date": [
+      "1973",
+      "1973"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "P. Brinch-Hansen, Operating System Principles"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Dijkstra (1965)] E. W. Dijkstra"
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "genre": [
+      "Technical report,"
+    ],
+    "location": [
+      "Eindhoven, the Netherlands"
+    ],
+    "publisher": [
+      "Technological University"
+    ],
+    "title": [
+      "Cooperating Sequential Processes”"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "literal": "Herlihy and Shavit (2012)] M. Herlihy and N. Shavit"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "publisher": [
+      "Morgan Kaufmann Publishers Inc"
+    ],
+    "title": [
+      "The Art of Multiprocessor Programming, Revised First Edition"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Hoare (1974)] C. A. R. Hoare"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "549–557"
+    ],
+    "title": [
+      "Monitors: An Operating System Structuring Concept”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17, Number 10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Mckenney (2010)] P. E. Mckenney"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "pages": [
+      "–17"
+    ],
+    "title": [
+      "Memory Barriers: a Hardware View for Software Hackers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Breshears (2009)] C. Breshears"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "publisher": [
+      "O’Reilly & Associates"
+    ],
+    "title": [
+      "The Art of Concurrency"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Goetz"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Goetz",
+        "given": "B."
+      },
+      {
+        "family": "Peirls",
+        "given": "T."
+      },
+      {
+        "family": "Bloch",
+        "given": "J."
+      },
+      {
+        "family": "Bowbeer",
+        "given": "J."
+      },
+      {
+        "family": "Holmes",
+        "given": "D."
+      },
+      {
+        "family": "Lea",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2006",
+      "2006"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Java Concurrency in Practice"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Hart (2005)] J. M. Hart"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "publisher": [
+      "Third Edition, Addison-Wesley"
+    ],
+    "title": [
+      "Windows System Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Love"
+      },
+      {
+        "family": "Love",
+        "given": "R."
+      },
+      {
+        "family": "Development",
+        "given": "Linux Kernel"
+      },
+      {
+        "family": "Edition",
+        "given": "Third"
+      },
+      {
+        "family": "Library",
+        "given": "Developer’s"
+      },
+      {
+        "literal": "S. Oaks, Java Performance — The Definitive Guide, O’Reilly & Associates"
+      },
+      {
+        "family": "Pacheco",
+        "given": "P.S."
+      },
+      {
+        "family": "Parallel Programming",
+        "given": "An Introduction",
+        "particle": "to"
+      },
+      {
+        "family": "Kaufmann",
+        "given": "Morgan"
+      }
+    ],
+    "date": [
+      "2010",
+      "2010",
+      "2014",
+      "2014",
+      "2011"
+    ],
+    "note": [
+      "Pacheco (2011)",
+      "Solomon and Russinovich (2000)] D. A. Solomon and M. E. Russinovich, Inside Microsoft Windows 2000, Third Edition, Microsoft Press (2000). Exercises EX-26"
+    ],
+    "title": [
+      "316 Chapter 7 Synchronization Examples [Oaks"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Dijkstra (1965)] E. W. Dijkstra"
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "genre": [
+      "Technical report,"
+    ],
+    "location": [
+      "Eindhoven, the Netherlands"
+    ],
+    "pages": [
+      "–27"
+    ],
+    "publisher": [
+      "Technological University"
+    ],
+    "title": [
+      "Cooperating Sequential Processes”"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Fang"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Fang",
+        "given": "Z."
+      },
+      {
+        "family": "Zhang",
+        "given": "L."
+      },
+      {
+        "family": "Carter",
+        "given": "J.B."
+      },
+      {
+        "family": "Hsieh",
+        "given": "W.C."
+      },
+      {
+        "family": "McKee",
+        "given": "S.A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the International Symposium on High-Performance Computer Architecture"
+    ],
+    "date": [
+      "2001",
+      "2001"
+    ],
+    "title": [
+      "Reevaluating Online Superpage Promotion with Hardware Support”"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "50, Number 5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Hennessy and Patterson (2012)] J. Hennessy and D. Patterson"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "edition": [
+      "Fifth"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Architecture: A Quantitative Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Howarth"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Howarth",
+        "given": "D.J."
+      },
+      {
+        "family": "Payne",
+        "given": "R.B."
+      },
+      {
+        "family": "Sumner",
+        "given": "F.H."
+      }
+    ],
+    "container-title": [
+      "Computer Journal"
+    ],
+    "date": [
+      "1961",
+      "1961"
+    ],
+    "pages": [
+      "226–229"
+    ],
+    "title": [
+      "The Manchester University Atlas Operating System, Part II: User’s Description”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Jacob and Mudge (2001)] B. Jacob and T. Mudge"
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Uniprocessor Virtual Memory Without TLBs”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "50, Number 5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Kilburn"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Kilburn",
+        "given": "T."
+      },
+      {
+        "family": "Howarth",
+        "given": "D.J."
+      },
+      {
+        "family": "Payne",
+        "given": "R.B."
+      },
+      {
+        "family": "Sumner",
+        "given": "F.H."
+      }
+    ],
+    "container-title": [
+      "Computer Journal"
+    ],
+    "date": [
+      "1961",
+      "1961"
+    ],
+    "pages": [
+      "222–225"
+    ],
+    "title": [
+      "The Manchester University Atlas Operating System, Part I: Internal Organization”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Carr and Hennessy (1981)] W. R. Carr and J. L. Hennessy"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the ACM Symposium on Operating Systems Principles"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "87–95"
+    ],
+    "title": [
+      "WSClock — A Simple and Effective Algorithm for Virtual Memory Management”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Denning (1968)] P. J. Denning"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "323–333"
+    ],
+    "title": [
+      "The Working Set Model for Program Behavior”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11, Number 5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Love"
+      }
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "publisher": [
+      "Third Edition, Developer’s Library"
+    ],
+    "title": [
+      "R. Love, Linux Kernel Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Mauerer (2008)] W. Mauerer"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "Professional Linux Kernel Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "McDougall and Mauro (2007)] R. McDougall and J. Mauro"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "Second Edition, Prentice Hall"
+    ],
+    "title": [
+      "Solaris Internals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "McKusick"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "McKusick",
+        "given": "M.K."
+      },
+      {
+        "family": "Neville-Neil",
+        "given": "G.V."
+      },
+      {
+        "family": "Watson",
+        "given": "R.N.M."
+      }
+    ],
+    "date": [
+      "2015",
+      "2015"
+    ],
+    "publisher": [
+      "Second Edition, Pearson"
+    ],
+    "title": [
+      "The Design and Implementation of the FreeBSD UNIX Operating System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Russinovich"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Russinovich",
+        "given": "M."
+      },
+      {
+        "family": "Solomon",
+        "given": "D.A."
+      },
+      {
+        "family": "Ionescu",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "genre": [
+      "Part 1,"
+    ],
+    "pages": [
+      "–35"
+    ],
+    "publisher": [
+      "Seventh Edition, Microsoft Press"
+    ],
+    "title": [
+      "Windows Internals"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Kim"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Kim",
+        "given": "J."
+      },
+      {
+        "family": "Oh",
+        "given": "Y."
+      },
+      {
+        "family": "Kim",
+        "given": "E."
+      },
+      {
+        "family": "Lee",
+        "given": "J.C.D."
+      },
+      {
+        "family": "Noh",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the seventh ACM international conference on Embedded software"
+    ],
+    "date": [
+      "2009",
+      "2009"
+    ],
+    "pages": [
+      "295–304"
+    ],
+    "title": [
+      "Disk Schedulers for Solid State Drivers”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Love"
+      }
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "publisher": [
+      "Third Edition, Developer’s Library"
+    ],
+    "title": [
+      "R. Love, Linux Kernel Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "McDougall and Mauro (2007)] R. McDougall and J. Mauro"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "Second Edition, Prentice Hall"
+    ],
+    "title": [
+      "Solaris Internals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Mesnier"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Mesnier",
+        "given": "M."
+      },
+      {
+        "family": "Ganger",
+        "given": "G."
+      },
+      {
+        "family": "Ridel",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "IEEE Communications Magazine"
+    ],
+    "date": [
+      "2003",
+      "2003"
+    ],
+    "pages": [
+      "84–99"
+    ],
+    "title": [
+      "Object-based storage”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "41, Number 8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Patterson"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      },
+      {
+        "family": "Gibson",
+        "given": "G."
+      },
+      {
+        "family": "Katz",
+        "given": "R.H."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the ACM SIGMOD International Conference on the Management of Data"
+    ],
+    "date": [
+      "1988",
+      "1988"
+    ],
+    "pages": [
+      "109–116"
+    ],
+    "title": [
+      "A Case for Redundant Arrays of Inexpensive Disks (RAID)”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Russinovich"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Russinovich",
+        "given": "M."
+      },
+      {
+        "family": "Solomon",
+        "given": "D.A."
+      },
+      {
+        "family": "Ionescu",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "genre": [
+      "Part 1,"
+    ],
+    "publisher": [
+      "Seventh Edition, Microsoft Press"
+    ],
+    "title": [
+      "Windows Internals"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Services (2012)] E. E. Services"
+      }
+    ],
+    "container-title": [
+      "Managing, and Protecting Digital Information in Classic, Virtualized, and Cloud Environments"
+    ],
+    "date": [
+      "2012"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Information Storage and Management: Storing"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "Hennessy and Patterson (2012)] J. Hennessy and D. Patterson"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "edition": [
+      "Fifth"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Architecture: A Quantitative Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Intel"
+      }
+    ],
+    "container-title": [
+      "Combined",
+      "Intel Corporation"
+    ],
+    "date": [
+      "2011",
+      "2B",
+      "2011"
+    ],
+    "note": [
+      "Exercises EX-46"
+    ],
+    "pages": [
+      "2 ,"
+    ],
+    "title": [
+      "Intel 64 and IA-32 Architectures Software Developer’s Manual",
+      "3A and 3B"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Volumes: 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Love"
+      }
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "publisher": [
+      "Third Edition, Developer’s Library"
+    ],
+    "title": [
+      "R. Love, Linux Kernel Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "McDougall and Mauro (2007)] R. McDougall and J. Mauro"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "Second Edition, Prentice Hall"
+    ],
+    "title": [
+      "Solaris Internals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Organick (1972)] E. I. Organick"
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "The Multics System: An Examination of Its Structure"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Russinovich"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Russinovich",
+        "given": "M."
+      },
+      {
+        "family": "Solomon",
+        "given": "D.A."
+      },
+      {
+        "family": "Ionescu",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "genre": [
+      "Part 1,"
+    ],
+    "publisher": [
+      "Seventh Edition, Microsoft Press"
+    ],
+    "title": [
+      "Windows Internals"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Singh (2007)] A. Singh"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "note": [
+      "Exercises EX-48"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Mac OS X Internals: A Systems Approach"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Ghemawat"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Ghemawat",
+        "given": "S."
+      },
+      {
+        "family": "Gobioff",
+        "given": "H."
+      },
+      {
+        "family": "Leung",
+        "given": "S.-T."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the ACM Symposium on Operating Systems Principles"
+    ],
+    "date": [
+      "2003",
+      "2003"
+    ],
+    "title": [
+      "The Google File System”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Hartman and Ousterhout (1995)] J. H. Hartman and J. K. Ousterhout"
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Computer Systems"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "274–310"
+    ],
+    "title": [
+      "The Zebra Striped Network File System”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Hitz"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Hitz",
+        "given": "D."
+      },
+      {
+        "family": "Lau",
+        "given": "J."
+      },
+      {
+        "family": "Malcolm",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1995",
+      "1995"
+    ],
+    "genre": [
+      "Technical report,"
+    ],
+    "publisher": [
+      "NetApp"
+    ],
+    "title": [
+      "File System Design for an NFS File Server Appliance”"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Love"
+      }
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "publisher": [
+      "Third Edition, Developer’s Library"
+    ],
+    "title": [
+      "R. Love, Linux Kernel Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Mauerer (2008)] W. Mauerer"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "Professional Linux Kernel Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "McKusick"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "McKusick",
+        "given": "M.K."
+      },
+      {
+        "family": "Neville-Neil",
+        "given": "G.V."
+      },
+      {
+        "family": "Watson",
+        "given": "R.N.M."
+      }
+    ],
+    "date": [
+      "2015",
+      "2015"
+    ],
+    "publisher": [
+      "Second Edition, Pearson"
+    ],
+    "title": [
+      "The Design and Implementation of the FreeBSD UNIX Operating System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Rosenblum and Ousterhout (1991)] M. Rosenblum and J. K. Ousterhout"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the ACM Symposium on Operating Systems Principles"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "1–15"
+    ],
+    "title": [
+      "The Design and Implementation of a Log-Structured File System”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Seltzer"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Seltzer",
+        "given": "M.I."
+      },
+      {
+        "family": "Bostic",
+        "given": "K."
+      },
+      {
+        "family": "McKusick",
+        "given": "M.K."
+      },
+      {
+        "family": "Staelin",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1993",
+      "1993"
+    ],
+    "pages": [
+      "307–326"
+    ],
+    "publisher": [
+      "USENIX Winter"
+    ],
+    "title": [
+      "An Implementation of a Log-Structured File System for UNIX”"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Seltzer"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Seltzer",
+        "given": "M.I."
+      },
+      {
+        "family": "Smith",
+        "given": "K.A."
+      },
+      {
+        "family": "Balakrishnan",
+        "given": "H."
+      },
+      {
+        "family": "Chang",
+        "given": "J."
+      },
+      {
+        "family": "McMains",
+        "given": "S."
+      },
+      {
+        "family": "Padmanabhan",
+        "given": "V.N."
+      }
+    ],
+    "container-title": [
+      "USENIX Winter"
+    ],
+    "date": [
+      "1995",
+      "1995"
+    ],
+    "pages": [
+      "249–264"
+    ],
+    "title": [
+      "File System Logging Versus Clustering: A Performance Comparison”"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "literal": "Solomon (1998)] D. A. Solomon, Inside Windows NT, Second Edition, Microsoft Press"
+      },
+      {
+        "family": "Thekkath",
+        "given": "C.A."
+      },
+      {
+        "family": "Mann",
+        "given": "T."
+      },
+      {
+        "family": "Lee",
+        "given": "E.K."
+      }
+    ],
+    "container-title": [
+      "Symposium on Operating Systems Principles"
+    ],
+    "date": [
+      "1998",
+      "1997",
+      "1997"
+    ],
+    "pages": [
+      "224–237"
+    ],
+    "title": [
+      "596 Chapter 14 File-System Implementation [Thekkath et al",
+      "Frangipani: A Scalable Distributed File System”"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Callaghan"
+      }
+    ],
+    "container-title": [
+      "Callaghan, NFS Illustrated"
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "B"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Love"
+      }
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "publisher": [
+      "Third Edition, Developer’s Library"
+    ],
+    "title": [
+      "R. Love, Linux Kernel Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Mauro and McDougall (2007)] J. Mauro and R. McDougall"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Solaris Internals: Core Kernel Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "McKusick"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "McKusick",
+        "given": "M.K."
+      },
+      {
+        "family": "Neville-Neil",
+        "given": "G.V."
+      },
+      {
+        "family": "Watson",
+        "given": "R.N.M."
+      }
+    ],
+    "date": [
+      "2015",
+      "2015"
+    ],
+    "publisher": [
+      "Second Edition, Pearson"
+    ],
+    "title": [
+      "The Design and Implementation of the FreeBSD UNIX Operating System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Ousterhout (1991)] J. Ousterhout."
+      }
+    ],
+    "container-title": [
+      "CMU Computer Science: a 25th Anniversary Commemorative"
+    ],
+    "date": [
+      "1991"
+    ],
+    "editor": [
+      {
+        "family": "Rashid",
+        "given": "R.F."
+      }
+    ],
+    "pages": [
+      "–51"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Role of Distributed State”"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "Akl (1983)] S. G. Akl"
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "15–24"
+    ],
+    "title": [
+      "Digital Signatures: A Tutorial Survey”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kaufman",
+        "given": "C."
+      },
+      {
+        "family": "Kaufman",
+        "given": "M.S.C."
+      },
+      {
+        "family": "Perlman",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2002",
+      "2002"
+    ],
+    "publisher": [
+      "Second Edition, Prentice Hall"
+    ],
+    "title": [
+      "Network Security: Private Communication in a Public World"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Davies (1983)] D. W. Davies"
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "55–62"
+    ],
+    "title": [
+      "Applying the RSA Digital Signature to Electronic Mail”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Denning (1983)] D. E. Denning"
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "27–35"
+    ],
+    "title": [
+      "Protecting Public Keys and Signature Keys”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Denning (1984)] D. E. Denning"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "388–392"
+    ],
+    "title": [
+      "Digital Signatures with RSA and Other Public-Key Cryptosystems”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Katz and Lindell (2008)] J. Katz and Y. Lindell"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "publisher": [
+      "Chapman & Hall/CRC Press"
+    ],
+    "title": [
+      "Introduction to Modern Cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Ludwig (1998)] M. Ludwig"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Second Edition, American Eagle Publications"
+    ],
+    "title": [
+      "The Giant Black Book of Computer Viruses"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Ludwig (2002)] M. Ludwig"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "American Eagle Publications"
+    ],
+    "title": [
+      "The Little Black Book of Email Viruses"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Schneier (1996)] B. Schneier"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "Applied Cryptography, Second Edition"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Stallings and Brown (2011)] W. Stallings and L. Brown"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "note": [
+      "Exercises EX-52"
+    ],
+    "publisher": [
+      "Second Edition, Prentice Hall"
+    ],
+    "title": [
+      "Computer Security: Principles and Practice"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Dennis and Horn (1966)] J. B. Dennis and E. C. V. Horn"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1966"
+    ],
+    "pages": [
+      "143–155"
+    ],
+    "title": [
+      "Programming Semantics for Multiprogrammed Computations”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Ganger"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Ganger",
+        "given": "G.R."
+      },
+      {
+        "family": "Engler",
+        "given": "D.R."
+      },
+      {
+        "family": "Kaashoek",
+        "given": "M.F."
+      },
+      {
+        "family": "Briceno",
+        "given": "H.M."
+      },
+      {
+        "family": "Hunt",
+        "given": "R."
+      },
+      {
+        "family": "Pinckney",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Computer Systems"
+    ],
+    "date": [
+      "2002",
+      "2002"
+    ],
+    "pages": [
+      "49–83"
+    ],
+    "title": [
+      "Fast and Flexible Application-Level Networking on Exokernel Systems”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Iliffe and Jodeit (1962)] J. K. Iliffe and J. G. Jodeit"
+      }
+    ],
+    "container-title": [
+      "Computer Journal"
+    ],
+    "date": [
+      "1962"
+    ],
+    "pages": [
+      "200–209"
+    ],
+    "title": [
+      "A Dynamic Storage Allocation System”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kaashoek",
+        "given": "M.F."
+      },
+      {
+        "family": "Engler",
+        "given": "D.R."
+      },
+      {
+        "family": "Ganger",
+        "given": "G.R."
+      },
+      {
+        "family": "Briceno",
+        "given": "H.M."
+      },
+      {
+        "family": "Hunt",
+        "given": "R."
+      },
+      {
+        "family": "Mazieres",
+        "given": "D."
+      },
+      {
+        "family": "Pinckney",
+        "given": "T."
+      },
+      {
+        "family": "Grimm",
+        "given": "R."
+      },
+      {
+        "family": "Jannotti",
+        "given": "J."
+      },
+      {
+        "family": "Mackenzie",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "698"
+    ],
+    "container-title": [
+      "Proceedings of the ACM Symposium on Operating Systems Principles"
+    ],
+    "date": [
+      "1997",
+      "1997"
+    ],
+    "pages": [
+      "52–65"
+    ],
+    "title": [
+      "Chapter 17 Protection [Kaashoek et al",
+      "Application Performance and Flexibility on Exokernel Systems”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Lampson (1969)] B. W. Lampson"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the AFIPS Fall Joint Computer Conference"
+    ],
+    "date": [
+      "1969"
+    ],
+    "pages": [
+      "27–38"
+    ],
+    "title": [
+      "Dynamic Protection Structures”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Lampson (1971)] B. W. Lampson"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Fifth Annual Princeton Conference on Information Systems Science"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "437–443"
+    ],
+    "title": [
+      "Protection”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Levin"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Levin",
+        "given": "R."
+      },
+      {
+        "family": "Cohen",
+        "given": "E.S."
+      },
+      {
+        "family": "Corwin",
+        "given": "W.M."
+      },
+      {
+        "family": "Pollack",
+        "given": "F.J."
+      },
+      {
+        "family": "Wulf",
+        "given": "W.A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the ACM Symposium on Operating Systems Principles"
+    ],
+    "date": [
+      "1975",
+      "1975"
+    ],
+    "pages": [
+      "132–140"
+    ],
+    "title": [
+      "Policy/Mechanism Separation in Hydra”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Popek (1974)] G. J. Popek"
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "22–33"
+    ],
+    "title": [
+      "Protection Structures”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7, Number 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Saltzer and Schroeder (1975)] J. H. Saltzer and M. D. Schroeder"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the IEEE"
+    ],
+    "date": [
+      "1975"
+    ],
+    "note": [
+      "Exercises EX-54"
+    ],
+    "pages": [
+      "1278–1308"
+    ],
+    "title": [
+      "The Protection of Information in Computer Systems”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Agesen"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Agesen",
+        "given": "O."
+      },
+      {
+        "family": "Garthwaite",
+        "given": "A."
+      },
+      {
+        "family": "Sheldon",
+        "given": "J."
+      },
+      {
+        "family": "Subrahmanyam",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the ACM Symposium on Operating Systems Principles"
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "pages": [
+      "3–18"
+    ],
+    "title": [
+      "The Evolution of an x86 Virtual Machine Monitor”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Gordon"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Gordon",
+        "given": "A."
+      },
+      {
+        "family": "Har’El",
+        "given": "N.A.N."
+      },
+      {
+        "family": "Ben-Yehuda",
+        "given": "M."
+      },
+      {
+        "family": "Landau",
+        "given": "A."
+      },
+      {
+        "family": "Schuster",
+        "given": "A."
+      },
+      {
+        "family": "Tsafrir",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the International Conference on Architectural Support for Programming Languages and Operating Systems"
+    ],
+    "date": [
+      "2012",
+      "2012"
+    ],
+    "pages": [
+      "411–422"
+    ],
+    "title": [
+      "ELI: Bare-metal Performance for I/O Virtualization”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Madhavapeddy"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Madhavapeddy",
+        "given": "A."
+      },
+      {
+        "family": "Mirtier",
+        "given": "R."
+      },
+      {
+        "family": "Rotsos",
+        "given": "C."
+      },
+      {
+        "family": "Scott",
+        "given": "D."
+      },
+      {
+        "family": "Singh",
+        "given": "B."
+      },
+      {
+        "family": "Gazagnaire",
+        "given": "T."
+      },
+      {
+        "family": "Smith",
+        "given": "S."
+      },
+      {
+        "family": "Hand",
+        "given": "S."
+      },
+      {
+        "family": "Crowcroft",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2013",
+      "2013"
+    ],
+    "title": [
+      "Unikernels: Library Operating Systems for the Cloud"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Meyer and Seawright (1970)] R. A. Meyer and L. H. Seawright"
+      }
+    ],
+    "container-title": [
+      "IBM Systems Journal"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "199–218"
+    ],
+    "title": [
+      "A Virtual Machine Time-Sharing System”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Neiger"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Neiger",
+        "given": "G."
+      },
+      {
+        "family": "Santoni",
+        "given": "A."
+      },
+      {
+        "family": "Leung",
+        "given": "F."
+      },
+      {
+        "family": "Rodgers",
+        "given": "D."
+      },
+      {
+        "family": "Uhlig",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Intel Technology Journal"
+    ],
+    "date": [
+      "2006",
+      "2006"
+    ],
+    "title": [
+      "Intel Virtualization Technology: Hardware Support for Efficient Processor Virtualization”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Popek and Goldberg (1974)] G. J. Popek and R. P. Goldberg"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "412–421"
+    ],
+    "title": [
+      "Formal Requirements for Virtualizable Third Generation Architectures”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17, Number 7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Waldspurger (2002)] C. Waldspurger"
+      }
+    ],
+    "container-title": [
+      "Operating Systems Review"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "181–194"
+    ],
+    "title": [
+      "Memory Resource Management in VMware ESX Server”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "West"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "West",
+        "given": "R."
+      },
+      {
+        "family": "Li",
+        "given": "Y."
+      },
+      {
+        "family": "Missimer",
+        "given": "E."
+      },
+      {
+        "family": "Danish",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2016",
+      "2016"
+    ],
+    "title": [
+      "A Virtualized Separation Kernel for Mixed Criticality Systems”"
+    ],
+    "type": null,
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wojtczuk",
+        "given": "R."
+      },
+      {
+        "family": "Ruthkowska",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "732"
+    ],
+    "container-title": [
+      "The Invisible Things Lab’s blog"
+    ],
+    "date": [
+      "2011",
+      "2011"
+    ],
+    "title": [
+      "Chapter 18 Virtual Machines [Wojtczuk and Ruthkowska",
+      "Following the White Rabbit: Software Attacks Against Intel VT-d Technology”"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Callaghan"
+      }
+    ],
+    "container-title": [
+      "Callaghan, NFS Illustrated"
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "B"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "Comer (2000)] D. Comer"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Fourth Edition, Prentice Hall"
+    ],
+    "title": [
+      "Internetworking with TCP/IP"
+    ],
+    "type": "book",
+    "volume": [
+      "I"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Fall and Stevens (2011)] K. Fall and R. Stevens"
+      }
+    ],
+    "container-title": [
+      "TCP/IP Illustrated"
+    ],
+    "date": [
+      "2011"
+    ],
+    "publisher": [
+      "The Protocols, Second Edition, John Wiley and Sons"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Ghemawat"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Ghemawat",
+        "given": "S."
+      },
+      {
+        "family": "Gobioff",
+        "given": "H."
+      },
+      {
+        "family": "Leung",
+        "given": "S.-T."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the ACM Symposium on Operating Systems Principles"
+    ],
+    "date": [
+      "2003",
+      "2003"
+    ],
+    "title": [
+      "The Google File System”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Shvachko",
+        "given": "K."
+      },
+      {
+        "given": "Chansler"
+      },
+      {
+        "family": "Shvachko",
+        "given": "S.R.K."
+      },
+      {
+        "family": "Kuang",
+        "given": "H."
+      },
+      {
+        "family": "Chansler",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "title": [
+      "The Hadoop Distributed File System"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Kurose and Ross (2017)] J. Kurose and K. Ross"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "edition": [
+      "Seventh"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Computer Networking — A Top–Down Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Peterson and Davie (2012)] L. L. Peterson and B. S. Davie"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "edition": [
+      "Fifth"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Networks: A Systems Approacm"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Steven"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Steven",
+        "given": "R."
+      },
+      {
+        "family": "Fenner",
+        "given": "B."
+      },
+      {
+        "family": "Rudoff",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Unix Network Programming"
+    ],
+    "date": [
+      "2003",
+      "2003"
+    ],
+    "publisher": [
+      "The Sockets Networking API, Third Edition, John Wiley and Sons"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "note": [
+      "Stevens (1995)] R. Stevens, TCP/IP Illustrated,",
+      "Exercises EX-56"
+    ],
+    "publisher": [
+      "The Implementation, Addison-Wesley"
+    ],
+    "type": null,
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Love"
+      }
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "publisher": [
+      "Third Edition, Developer’s Library"
+    ],
+    "title": [
+      "R. Love, Linux Kernel Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Mauerer (2008)] W. Mauerer"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "note": [
+      "Exercises EX-58"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "Professional Linux Kernel Architecture"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Russinovich"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Russinovich",
+        "given": "M."
+      },
+      {
+        "family": "Solomon",
+        "given": "D.A."
+      },
+      {
+        "family": "Ionescu",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "note": [
+      "Seventh Edition, Microsoft Press (2017). Exercises EX-60"
+    ],
+    "title": [
+      "Windows Internals – Part 1"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Accetta"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Accetta",
+        "given": "M."
+      },
+      {
+        "family": "Baron",
+        "given": "R."
+      },
+      {
+        "family": "Bolosky",
+        "given": "W."
+      },
+      {
+        "family": "Golub",
+        "given": "D.B."
+      },
+      {
+        "family": "Rashid",
+        "given": "R."
+      },
+      {
+        "family": "Tevanian",
+        "given": "A."
+      },
+      {
+        "family": "Young",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Summer USENIX Conference"
+    ],
+    "date": [
+      "1986",
+      "1986"
+    ],
+    "pages": [
+      "93–112"
+    ],
+    "title": [
+      "Mach: A New Kernel Foundation for UNIX Development”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Apple"
+      }
+    ],
+    "date": [
+      "1987",
+      "1987"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Apple Technical Introduction to the Macintosh Family"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Black (1990)] D. L. Black"
+      }
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "35–43"
+    ],
+    "title": [
+      "Scheduling Support for Concurrency and Parallelism in the Mach Operating System”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23, Number 5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Bobrow"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Bobrow",
+        "given": "D.G."
+      },
+      {
+        "family": "Burchfiel",
+        "given": "J.D."
+      },
+      {
+        "family": "Murphy",
+        "given": "D.L."
+      },
+      {
+        "family": "Tomlinson",
+        "given": "R.S."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1972",
+      "1972"
+    ],
+    "title": [
+      "TENEX, a Paged Time Sharing System for the PDP-10”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Brinch-Hansen (1970)] P. Brinch-Hansen"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "238–241 250"
+    ],
+    "title": [
+      "The Nucleus of a Multiprogramming System”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Brinch-Hansen"
+      }
+    ],
+    "date": [
+      "1973",
+      "1973"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "P. Brinch-Hansen, Operating System Principles"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Ceruzzi (1998)] P. E. Ceruzzi"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "A History of Modern Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Corbato and Vyssotsky (1965)] F. J. Corbato and V. A. Vyssotsky"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the AFIPS Fall Joint Computer Conference"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "185–196"
+    ],
+    "title": [
+      "Introduction and Overview of the MULTICS System”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Corbato"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Corbato",
+        "given": "F.J."
+      },
+      {
+        "family": "Merwin-Daggett",
+        "given": "M."
+      },
+      {
+        "family": "Daley",
+        "given": "R.C."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the AFIPS Fall Joint Computer Conference"
+    ],
+    "date": [
+      "1962",
+      "1962"
+    ],
+    "pages": [
+      "335–344"
+    ],
+    "title": [
+      "An Experimental Time-Sharing System”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Dijkstra (1968)] E. W. Dijkstra"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "341–346"
+    ],
+    "title": [
+      "The Structure of the THE Multiprogramming System”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11, Number 5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Frah (2001)] G. Frah"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "The Universal History of Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Frauenfelder (2005)] M. Frauenfelder"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "publisher": [
+      "Carlton Books"
+    ],
+    "title": [
+      "The Computer — An Illustrated History"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Freiberger and Swaine (2000)] P. Freiberger and M. Swaine"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Fire in the Valley —The Making of the Personal Computer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Howarth"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Howarth",
+        "given": "D.J."
+      },
+      {
+        "family": "Payne",
+        "given": "R.B."
+      },
+      {
+        "family": "Sumner",
+        "given": "F.H."
+      }
+    ],
+    "container-title": [
+      "Computer Journal"
+    ],
+    "date": [
+      "1961",
+      "1961"
+    ],
+    "pages": [
+      "226–229"
+    ],
+    "title": [
+      "The Manchester University Atlas Operating System, Part II: User’s Description”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Kenah"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Kenah",
+        "given": "L.J."
+      },
+      {
+        "family": "Goldenberg",
+        "given": "R.E."
+      },
+      {
+        "family": "Bate",
+        "given": "S.F."
+      }
+    ],
+    "date": [
+      "1988",
+      "1988"
+    ],
+    "publisher": [
+      "VAX/VMS Internals and Data Structures, Digital Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Kilburn"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Kilburn",
+        "given": "T."
+      },
+      {
+        "family": "Howarth",
+        "given": "D.J."
+      },
+      {
+        "family": "Payne",
+        "given": "R.B."
+      },
+      {
+        "family": "Sumner",
+        "given": "F.H."
+      }
+    ],
+    "container-title": [
+      "Computer Journal"
+    ],
+    "date": [
+      "1961",
+      "1961"
+    ],
+    "pages": [
+      "222–225"
+    ],
+    "title": [
+      "The Manchester University Atlas Operating System, Part I: Internal Organization”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Lett and Konigsford (1968)] A. L. Lett and W. L. Konigsford"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the AFIPS Fall Joint Computer Conference"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "15–28"
+    ],
+    "title": [
+      "TSS/360: A Time-Shared Operating System”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Lichtenberger and Pirtle (1965)] W. W. Lichtenberger and M. W. Pirtle"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the AFIPS Fall Joint Computer Conference"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "589–598"
+    ],
+    "title": [
+      "A Facility for Experimentation in Man-Machine Interaction”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Liskov (1972)] B. H. Liskov"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "144–149"
+    ],
+    "title": [
+      "The Design of the Venus Operating System”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "McKeag and Wilson (1976)] R. M. McKeag and R. Wilson"
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Studies in Operating Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Mealy"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Mealy",
+        "given": "G.H."
+      },
+      {
+        "family": "Witt",
+        "given": "B.I."
+      },
+      {
+        "family": "Clark",
+        "given": "W.A."
+      }
+    ],
+    "container-title": [
+      "IBM Systems Journal"
+    ],
+    "date": [
+      "1966",
+      "1966"
+    ],
+    "pages": [
+      "3–11"
+    ],
+    "title": [
+      "The Functional Structure of OS/360”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Meyer and Seawright (1970)] R. A. Meyer and L. H. Seawright"
+      }
+    ],
+    "container-title": [
+      "IBM Systems Journal"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "199–218"
+    ],
+    "title": [
+      "A Virtual Machine Time-Sharing System”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Needham and Walker (1977)] R. M. Needham and R. D. H. Walker"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Sixth Symposium on Operating System Principles"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "1–10"
+    ],
+    "title": [
+      "The Cambridge CAP Computer and Its Protection System”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Organick (1972)] E. I. Organick"
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "The Multics System: An Examination of Its Structure"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Parmelee"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Parmelee",
+        "given": "R.P."
+      },
+      {
+        "family": "Peterson",
+        "given": "T.I."
+      },
+      {
+        "family": "Tillman",
+        "given": "C.C."
+      },
+      {
+        "family": "Hatfield",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "IBM Systems Journal"
+    ],
+    "date": [
+      "1972",
+      "1972"
+    ],
+    "pages": [
+      "99–130"
+    ],
+    "title": [
+      "Virtual Storage and Virtual Machine Concepts”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Rashid (1986)] R. F. Rashid"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the ACM/IEEE Computer Society, Fall Joint Computer Conference"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "1128–1137"
+    ],
+    "title": [
+      "From RIG to Accent to Mach: The Evolution of a Network Operating System”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Rashid and Robertson (1981)] R. Rashid and G. Robertson"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the ACM Symposium on Operating System Principles"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "64–75"
+    ],
+    "title": [
+      "Accent: A Communication-Oriented Network Operating System Kernel”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Rojas and Hashagen (2000)] R. Rojas and U. Hashagen"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "The First Computers —History and Architectures"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Tevanian"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "A. Tevanian",
+        "given": "R.F.Rashid",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Golub",
+        "given": "D.B."
+      },
+      {
+        "family": "Black",
+        "given": "D.L."
+      },
+      {
+        "family": "Cooper",
+        "given": "E."
+      },
+      {
+        "family": "Young",
+        "given": "M.W."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Summer USENIX Conference"
+    ],
+    "date": [
+      "1987",
+      "1987"
+    ],
+    "title": [
+      "Mach Threads and the Unix Kernel: The Battle for Control”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Tevanian"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "A. Tevanian",
+        "given": "R.F.Rashid",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Young",
+        "given": "M.W."
+      },
+      {
+        "family": "Golub",
+        "given": "D.B."
+      },
+      {
+        "family": "Thompson",
+        "given": "M.R."
+      },
+      {
+        "family": "Bolosky",
+        "given": "W."
+      },
+      {
+        "family": "Sanzi",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1987",
+      "1987"
+    ],
+    "genre": [
+      "Technical report,"
+    ],
+    "publisher": [
+      "Carnegie-Mellon University"
+    ],
+    "title": [
+      "A UNIX Interface for Shared Memory and Memory Mapped Files Under Mach”"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Tevanian"
+      },
+      {
+        "others": true
+      },
+      {
+        "literal": "A. Tevanian, Jr., and B. Smith"
+      }
+    ],
+    "container-title": [
+      "Byte"
+    ],
+    "date": [
+      "1989",
+      "1989",
+      "1981",
+      "1981"
+    ],
+    "editor": [
+      {
+        "family": "Wulf",
+        "given": "W.A."
+      },
+      {
+        "family": "Levin",
+        "given": "R."
+      },
+      {
+        "family": "Harbison",
+        "given": "S.P."
+      }
+    ],
+    "location": [
+      "Hydra/C.mmp"
+    ],
+    "publisher": [
+      "An Experimental Computer System, McGraw-Hill"
+    ],
+    "title": [
+      "Mach: The Model for Future Unix”",
+      "24 Appendix A Influentia Operating Systems [Wulf et al",
+      "B Appendix"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "note": [
+      "How does Windows implement transport protocols? Describe two networking protocols."
+    ],
+    "title": [
+      "B.1 What type of operating system is Windows? Describe two of its major features. B.2 List the design goals of Windows. Describe two in detail. B.3 Describe the booting process for a Windows system. B.4 Describe the three main architectural layers of the Windows kernel. B.5 What is the job of the object manager? B.6 What types of services does the process manager provide? B.7 What is a local procedure call? B.8 What are the responsibilities of the I/O manager? B.9 What types of networking does Windows support?"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "B.10 How is the NTFS namespace organized? B.11 How does NTFS handle data structures? How does NTFS recover from a system crash? What is guaranteed after a recovery takes place? B.12 How does Windows allocate user memory? B.13 Describe some of the ways in which an application can use memory via the Win32 API"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Russinovich"
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Iseminger (2000)] provides a good reference on the Windows Active Directory. Detailed discussions of writing programs that use the Win32 API appear in [Richter (1997)]. The source code for a 2005 WRK version of the Windows kernel, together with a collection of slides and other CRK curriculum materials"
+    ],
+    "date": [
+      "2017",
+      "2000"
+    ],
+    "note": [
+      "is available from www.microsoft.com/WindowsAcademic for use by universities."
+    ],
+    "publisher": [
+      "Brown"
+    ],
+    "title": [
+      "provides an overview of Windows 7 and considerable technical detail about system internals and components",
+      "presents details of the security architecture of Windows. The Microsoft Developer Network Library (http://msdn.microsoft.com) supplies a wealth of information on Windows and other Microsoft products, including documentation of all the published APIs"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Brown"
+      }
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "publisher": [
+      "Brown, Programming Windows Security, Addison-Wesley"
+    ],
+    "title": [
+      "K"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Iseminger"
+      }
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "publisher": [
+      "Technical Reference, Microsoft Press"
+    ],
+    "title": [
+      "D. Iseminger, Active Directory Services for Microsoft Windows 2000"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Richter"
+      }
+    ],
+    "date": [
+      "1997",
+      "1997"
+    ],
+    "publisher": [
+      "Richter, Advanced Windows, Microsoft Press"
+    ],
+    "title": [
+      "J"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Russinovich"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Russinovich",
+        "given": "M."
+      },
+      {
+        "family": "Solomon",
+        "given": "D.A."
+      },
+      {
+        "family": "Ionescu",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "note": [
+      "Seventh Edition, Microsoft Press (2017). C Appendix"
+    ],
+    "title": [
+      "Windows Internals – Part 1"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "in a position to market System V aggressively."
+      }
+    ],
+    "container-title": [
+      "USDL was in turn replaced by AT&T Information Systems (ATTIS), which distributed System V Release"
+    ],
+    "date": [
+      "1984",
+      "1987"
+    ],
+    "issue": [
+      "V.3"
+    ],
+    "note": [
+      "V.3 adapts the V8 implementation of the stream I/O system and makes it available as STREAMS. It also includes RFS, the NFS-like remote file system mentioned earlier."
+    ],
+    "title": [
+      "USG was restructured as the UNIX System Development Laboratory (USDL), which released UNIX System V Release 2 (V.2) in",
+      "UNIX System V Release 2, Version 4 (V.2.4) added a new implementation of virtual memory with copy-on-write paging and shared memory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Baldwin (2002)] J. Baldwin"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "USENIX BSD"
+    ],
+    "title": [
+      "Locking in the Multithreaded FreeBSD Kernel”"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "McKusick"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "McKusick",
+        "given": "M.K."
+      },
+      {
+        "family": "Neville-Neil",
+        "given": "G.V."
+      },
+      {
+        "family": "Watson",
+        "given": "R.N.M."
+      }
+    ],
+    "date": [
+      "2015",
+      "2015"
+    ],
+    "publisher": [
+      "Second Edition, Pearson"
+    ],
+    "title": [
+      "The Design and Implementation of the FreeBSD UNIX Operating System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Roberson (2003)] J. Roberson"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the USENIX BSDCon Conference"
+    ],
+    "date": [
+      "2003"
+    ],
+    "note": [
+      "The Mach D Appendix"
+    ],
+    "pages": [
+      "17–28"
+    ],
+    "title": [
+      "ULE: A Modern Scheduler For FreeBSD”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Accetta"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Accetta",
+        "given": "M."
+      },
+      {
+        "family": "Baron",
+        "given": "R."
+      },
+      {
+        "family": "Bolosky",
+        "given": "W."
+      },
+      {
+        "family": "Golub",
+        "given": "D.B."
+      },
+      {
+        "family": "Rashid",
+        "given": "R."
+      },
+      {
+        "family": "Tevanian",
+        "given": "A."
+      },
+      {
+        "family": "Young",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Summer USENIX Conference"
+    ],
+    "date": [
+      "1986",
+      "1986"
+    ],
+    "pages": [
+      "93–112"
+    ],
+    "title": [
+      "Mach: A New Kernel Foundation for UNIX Development”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Black (1990)] D. L. Black"
+      }
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "35–43"
+    ],
+    "title": [
+      "Scheduling Support for Concurrency and Parallelism in the Mach Operating System”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23, Number 5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Rashid (1986)] R. F. Rashid"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the ACM/IEEE Computer Society, Fall Joint Computer Conference"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "1128–1137"
+    ],
+    "title": [
+      "From RIG to Accent to Mach: The Evolution of a Network Operating System”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Rashid and Robertson (1981)] R. Rashid and G. Robertson"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the ACM Symposium on Operating System Principles"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "64–75"
+    ],
+    "title": [
+      "Accent: A Communication-Oriented Network Operating System Kernel”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Tevanian"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "A. Tevanian",
+        "given": "R.F.Rashid",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Golub",
+        "given": "D.B."
+      },
+      {
+        "family": "Black",
+        "given": "D.L."
+      },
+      {
+        "family": "Cooper",
+        "given": "E."
+      },
+      {
+        "family": "Young",
+        "given": "M.W."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Summer USENIX Conference"
+    ],
+    "date": [
+      "1987",
+      "1987"
+    ],
+    "title": [
+      "Mach Threads and the Unix Kernel: The Battle for Control”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Tevanian"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "A. Tevanian",
+        "given": "R.F.Rashid",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Young",
+        "given": "M.W."
+      },
+      {
+        "family": "Golub",
+        "given": "D.B."
+      },
+      {
+        "family": "Thompson",
+        "given": "M.R."
+      },
+      {
+        "family": "Bolosky",
+        "given": "W."
+      },
+      {
+        "family": "Sanzi",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1987",
+      "1987"
+    ],
+    "genre": [
+      "Technical report,"
+    ],
+    "note": [
+      "Tevanian et al. (1989)] A. Tevanian, Jr., and B. Smith, “Mach: The Model for Future Unix”, Byte (1989). Credits"
+    ],
+    "publisher": [
+      "Carnegie-Mellon University"
+    ],
+    "title": [
+      "A UNIX Interface for Shared 26 Appendix D The Mach System Memory and Memory Mapped Files Under Mach”"
+    ],
+    "type": "report"
+  },
+  {
+    "container-title": [
+      "Figure"
+    ],
+    "issue": [
+      "3"
+    ],
+    "note": [
+      "Reprinted with permission of the publisher."
+    ],
+    "pages": [
+      "394"
+    ],
+    "title": [
+      "• Figure 1.14: From Hennesy and Patterson, Computer Architecture: A Quantitative Approach, Third Edition, 2002, c Morgan Kaufmann Publishers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "container-title": [
+      "Proceedings of Winter USENIX"
+    ],
+    "date": [
+      "1992-01"
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "note": [
+      "Derived with permission of the authors. • Figure 5.30 adapted with permission from Sun Microsystems, Inc."
+    ],
+    "title": [
+      "• Figure 5.19: From Khanna/Sebree/Zolnowsky, “Realtime Scheduling in SunOS 5.0"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "container-title": [
+      "c • Figure 14.8: From Leffler/McKusick/Karels/Quarterman, The Design and Implementation of the 4.3BSD UNIX Operating System",
+      "Systems Journal",
+      "Architecture and Programming Manual"
+    ],
+    "date": [
+      "1971",
+      "1993",
+      "1989"
+    ],
+    "issue": [
+      "3"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "note": [
+      "Figure 7.6,",
+      "Reprinted with permission of the publisher."
+    ],
+    "pages": [
+      "196"
+    ],
+    "publisher": [
+      "c by Addison-Wesley Publishing Co., Inc"
+    ],
+    "title": [
+      "• Figure 10.20: From IBM",
+      "c International Business Machines Corporation. Reprinted by permission of IBM Corporation. • Figure 12.5: Based on a table from Pentium Processor User’s Manual"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10",
+      "3"
+    ]
+  },
+  {
+    "container-title": [
+      "Third Edition",
+      "Figure",
+      "and Figure"
+    ],
+    "date": [
+      "1992"
+    ],
+    "issue": [
+      "9",
+      "10",
+      "11"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "note": [
+      "Reprinted with permission of the publisher."
+    ],
+    "pages": [
+      "14,",
+      "15,",
+      "18"
+    ],
+    "publisher": [
+      "c Addison-Wesley Publishing Co., Inc"
+    ],
+    "title": [
+      "• Figures 19.5, 19.6, and 19.8: From Halsall, Data Communications, Computer Networks, and Open Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  {
+    "note": [
+      "secondary, 395 overview, 449-450 semiconductor, 14 RAID, 473-485 shared, 57, 73, 123, 125, 556-560 extensions, 481-482 software transactional, 312 for object storage,",
+      "performance improvement, 475 transactional, 311-312 problems with, 482-483 virtual, see virtual memory RAID levels, 475-481 volatile, 454-455 reliability improvement, 473-475 memory access: scheduling, 457-462 direct, 15, 498-500 secondary storage connection methods, direct virtual, 500"
+    ],
+    "pages": [
+      "795–798 461–462",
+      "364"
+    ],
+    "title": [
+      "hard disk drives, 450-451, 457-461 over-allocation of, 401 nonvolatile memory devices, 452-454, physical"
+    ],
+    "type": null,
+    "volume": [
+      "24, 362, 390, 391",
+      "483-485 32-byte, 363"
+    ]
+  },
+  {
+    "note": [
+      "readers-writers problem, 290-293 system libraries (Linux), 781 thread, 888-889 system mode, see kernel mode synchronization primitives, 845-846 system model, for deadlocks, 318-319 synchronization tools, 257-287 system processes, 872 about, 257-260 system programs, 6 critical-section problem, 260-270 system resource-allocation graph, 323-326 hardware solution to, 265-270 system restore point, 871 Peterson’s solution to, 262-265 system utilities, 74-75, 781"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "wide-area networks (WANs), 36, 735, secure kernel, 839-840 737-738 terminal services, 874-875 WiFi (wireless) networks, 41,",
+      "plug-and-play manager, 869-870 Windows operating system (generally): power manager, 870-871 anonymous pipes, 141, 145 process manager, 858-860 booting from storage device, 466 registry, 871-872 interprocess communication example, security reference monitor, 866-869"
+    ],
+    "pages": [
+      "849–851 885–886"
+    ],
+    "title": [
+      "736-737 virtual memory in, 437-438 Win32 API, 884-895 Windows Desktop Bridge, 823 creating process, 119-120 Windows Driver Foundation, 864 IPC with Windows messaging, 891-892 Windows executive, 848-874 kernel object access, 884-885 booting, 872-874 memory management, 892-895 cache manager, 864-866 process management, 886-891 client-server computing, 861-862 shared memory, 556-560 I/O manager, 862-864 sharing objects between processes, object manager"
+    ],
+    "type": null
+  }
+]
