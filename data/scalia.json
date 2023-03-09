@@ -1,0 +1,3835 @@
+[
+  {
+    "author": [
+      {
+        "family": "Richard",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Politico Magazine"
+    ],
+    "date": [
+      "2016-02-14"
+    ],
+    "title": [
+      "Pildes, quoted in “How Antonin Scalia Changed America"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.politico.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Frost"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1932"
+    ],
+    "publisher": [
+      "Lane Cooper trans"
+    ],
+    "title": [
+      "188 (quoting Aristotle, The Rhetoric of Aristotle"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Evans"
+    ],
+    "date": [
+      "1996"
+    ],
+    "note": [
+      "Scalia, J., dissenting)."
+    ],
+    "pages": [
+      "653"
+    ],
+    "title": [
+      "Romer v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "517 U.S. 620"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "U.S. v. Windsor, 570 U.S. __"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "2013"
+    ],
+    "note": [
+      "Scalia, J., dissenting)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "King v. Burwell, 576 U.S. __"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "2015"
+    ],
+    "note": [
+      "Scalia, J., dissenting)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Illinois"
+    ],
+    "date": [
+      "1987"
+    ],
+    "note": [
+      "Scalia, J., concurring)."
+    ],
+    "pages": [
+      "504"
+    ],
+    "title": [
+      "Pope v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "481 U.S. 497"
+    ]
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Whitley"
+    ],
+    "date": [
+      "1995"
+    ],
+    "note": [
+      "Scalia, J., dissenting)."
+    ],
+    "pages": [
+      "466–467"
+    ],
+    "title": [
+      "Kyles v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "514 U.S. 419"
+    ]
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "AT&T"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "227"
+    ],
+    "title": [
+      "MCI Telecommunications v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "512 U.S. 218"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Lamb’s Chapel"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "1993"
+    ],
+    "note": [
+      "Scalia, J., concurring)."
+    ],
+    "pages": [
+      "398"
+    ],
+    "title": [
+      "Center Moriches School District, 508 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "384"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Webster"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1989"
+    ],
+    "note": [
+      "Scalia, J., concurring)."
+    ],
+    "pages": [
+      "537"
+    ],
+    "title": [
+      "Reproductive Health Services, 492 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "490"
+    ]
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Milford Central School"
+    ],
+    "date": [
+      "2001"
+    ],
+    "note": [
+      "Scalia, J., concurring)."
+    ],
+    "pages": [
+      "121"
+    ],
+    "title": [
+      "Good News Club v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "533 U.S. 98"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Morse"
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "date": [
+      "1996"
+    ],
+    "note": [
+      "Scalia, J., dissenting)."
+    ],
+    "pages": [
+      "245"
+    ],
+    "title": [
+      "Republican Party of Virginia, 517 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "186"
+    ]
+  },
+  {
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Umbehr"
+    ],
+    "date": [
+      "1996"
+    ],
+    "note": [
+      "Scalia, J., dissenting)."
+    ],
+    "pages": [
+      "711"
+    ],
+    "title": [
+      "Board of Commissioners, Wabaunsee County v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "518 U.S. 668"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alvarez-Machain",
+        "given": "Sosa",
+        "particle": "v."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "2004"
+    ],
+    "note": [
+      "Scalia, J., concurring)."
+    ],
+    "pages": [
+      "2776"
+    ],
+    "type": null,
+    "volume": [
+      "124 S.Ct. 2739"
+    ]
+  },
+  {
+    "citation-number": [
+      "548"
+    ],
+    "location": [
+      "Notes"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Elmbrook School District v. Doe, 573 U.S. __"
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "2014"
+    ],
+    "note": [
+      "Scalia, J., dissenting from denial of certiorari). Chapter One: Scalia’s Philosophy"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Scalia"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1184",
+      "1179"
+    ],
+    "pages": [
+      "2"
+    ],
+    "publisher": [
+      "Ibid"
+    ],
+    "title": [
+      "The Rule of Law"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "pages": [
+      "88"
+    ],
+    "publisher": [
+      "Schultz and Smith"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Craig",
+        "given": "Maryland",
+        "particle": "v."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "497 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "836"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Scalia"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "genre": [
+      "862."
+    ],
+    "title": [
+      "Originalism"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Eichman"
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "United States v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "496 U.S. 310"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Kyollo"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "United States, 533 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Scalia"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "A Matter of Interpretation, 46"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Scalia"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "genre": [
+      "856."
+    ],
+    "title": [
+      "Originalism"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Scalia"
+      },
+      {
+        "given": "Scalia"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Starr",
+      "A Matter of Interpretation",
+      "Ibid"
+    ],
+    "date": [
+      "1381"
+    ],
+    "pages": [
+      "12",
+      "14",
+      "37–38"
+    ],
+    "publisher": [
+      "Zlotnick"
+    ],
+    "title": [
+      "Remarks at Catholic University. 11"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25",
+      "13",
+      "46",
+      "15. Ibid"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "United States Senate",
+        "given": "S.Hrg"
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "Kennedy"
+    ],
+    "issue": [
+      "bin, 12"
+    ],
+    "pages": [
+      "19",
+      "138"
+    ],
+    "publisher": [
+      "Simon"
+    ],
+    "title": [
+      "99-1064 (statement of Sen"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "Reid"
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "Rec"
+    ],
+    "title": [
+      "146 Cong"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "S2653"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Reid"
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "Rec"
+    ],
+    "title": [
+      "145 Cong"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "S1579"
+    ]
+  },
+  {
+    "citation-number": [
+      "22."
+    ],
+    "note": [
+      "See Chemerinksy, 392, and Zlotnick, 1416."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Koskela"
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "pages": [
+      "32"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Zlotnick"
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "date": [
+      "1424"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "See",
+        "given": "eg"
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "Rec"
+    ],
+    "date": [
+      "1997-07-15"
+    ],
+    "edition": [
+      "daily"
+    ],
+    "issue": [
+      "5185"
+    ],
+    "note": [
+      "statement of Rep. Barney Frank). 26. Mauro."
+    ],
+    "title": [
+      "143 Cong"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "Schultz"
+      },
+      {
+        "family": "Smith",
+        "given": "xvi"
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "date": [
+      "28"
+    ],
+    "note": [
+      "Casey, 851."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "See",
+        "given": "eg"
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "container-title": [
+      "Failinger"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "471"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Morris",
+        "given": "Benjamin"
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "container-title": [
+      "FiveThirtyEight"
+    ],
+    "date": [
+      "2016-02-14"
+    ],
+    "note": [
+      "Notes 549"
+    ],
+    "title": [
+      "How Scalia Became the Most Influential Conservative Jurist since the New Deal"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "title": [
+      "Chapter Two: Interpreting Laws"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Smith"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "United States, 508 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "223"
+    ]
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Mortier"
+    ],
+    "date": [
+      "1991"
+    ],
+    "note": [
+      "Scalia, J., concurring in the judgment)."
+    ],
+    "pages": [
+      "621"
+    ],
+    "title": [
+      "Wisconsin Public Intervenor v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "501 U.S. 597"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Aniskoff",
+        "given": "Conroy",
+        "particle": "v."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1993"
+    ],
+    "note": [
+      "Scalia, J., concurring in the judgment). 4. Ibid."
+    ],
+    "pages": [
+      "519"
+    ],
+    "title": [
+      "507 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "511"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Intel Corp"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Inc"
+    ],
+    "date": [
+      "2004"
+    ],
+    "note": [
+      "Scalia, J., concurring in the judgment)."
+    ],
+    "pages": [
+      "267"
+    ],
+    "title": [
+      "Advanced Micro Devices"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "542 U.S. 241"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Missouri Municipal League",
+        "given": "Nixon",
+        "particle": "v."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Ct"
+    ],
+    "note": [
+      "1555, 1566 (Scalia, J., concurring in the judgment). Chapter Three: Separation of Powers 1. Clark, 754."
+    ],
+    "title": [
+      "124 S"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Fox"
+      },
+      {
+        "given": "McAllister"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "pages": [
+      "244–245"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Mistretta"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "United States, 488 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "361"
+    ]
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "pages": [
+      "89"
+    ],
+    "publisher": [
+      "Schultz and Smith"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Plaut"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "239"
+    ],
+    "title": [
+      "Spendthrift Farm, 514 U.S",
+      "Chapter Four: Race"
+    ],
+    "type": null,
+    "volume": [
+      "211"
+    ]
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Sharpe"
+    ],
+    "date": [
+      "1954"
+    ],
+    "title": [
+      "Bolling v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "347 U.S. 497"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Klutznick",
+        "given": "Fullilove",
+        "particle": "v."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1980"
+    ],
+    "note": [
+      "Marshall, J., concurring). Chapter Five: Abortion"
+    ],
+    "title": [
+      "448 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "448, 507"
+    ]
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Connecticut"
+    ],
+    "date": [
+      "1965"
+    ],
+    "title": [
+      "Griswold v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "381 U.S. 479"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Baird",
+        "given": "Eisenstadt",
+        "particle": "v."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1972"
+    ],
+    "title": [
+      "405 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "438"
+    ]
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Minnesota"
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Hodgson v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "497 U.S. 417"
+    ]
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "Ibid., 480 (Scalia, J., concurring and dissenting"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Akron"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1983"
+    ],
+    "note": [
+      "O’Connor, J., dissenting)."
+    ],
+    "pages": [
+      "458"
+    ],
+    "title": [
+      "Akron Center for Reproductive Health, 462 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "416"
+    ]
+  },
+  {
+    "citation-number": [
+      "550"
+    ],
+    "title": [
+      "Notes Chapter Seven: Death Penalty"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Georgia"
+    ],
+    "date": [
+      "1972"
+    ],
+    "title": [
+      "Furman v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "408 U.S. 238"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chapman",
+        "given": "Rhodes",
+        "particle": "v."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Dulles"
+    ],
+    "date": [
+      "1981",
+      "1958"
+    ],
+    "note": [
+      "plurality opinion)."
+    ],
+    "pages": [
+      "346",
+      "101"
+    ],
+    "title": [
+      "452 U.S",
+      "quoting Trop v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "337",
+      "356 U.S. 86"
+    ]
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Oklahoma"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "859"
+    ],
+    "title": [
+      "Thompson v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "487 U.S. 815"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Callins"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1141"
+    ],
+    "title": [
+      "Collins, 510 U.S",
+      "Chapter Eight: Rights of the Accused"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "United States"
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Sykes v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "561 U. S"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Johnson"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "2015"
+    ],
+    "title": [
+      "United States, 576 U.S",
+      "Chapter Nine: Religious Freedom"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Everson"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1947"
+    ],
+    "note": [
+      "Ibid., 15."
+    ],
+    "pages": [
+      "2"
+    ],
+    "title": [
+      "Board of Education, 330 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "See",
+        "given": "eg"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Carter"
+    ],
+    "note": [
+      "Sullivan, 449."
+    ],
+    "pages": [
+      "4"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "109"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Weinberger",
+        "given": "Goldman",
+        "particle": "v."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "475 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "503"
+    ]
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Verner"
+    ],
+    "date": [
+      "1963"
+    ],
+    "title": [
+      "Sherberg v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "374 U.S. 398"
+    ]
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Smith"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "890"
+    ],
+    "title": [
+      "Employment Division of Oregon v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "494 U.S. 872"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grumet",
+        "given": "Board",
+        "particle": "of Education of Kiryas Joel v."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "1952"
+    ],
+    "note": [
+      "687 (1994) (Scalia, J., dissenting) (quoting Zorach v. Clauson, 343 U.S."
+    ],
+    "title": [
+      "512 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "306"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Durham"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "App"
+    ],
+    "date": [
+      "1954"
+    ],
+    "issue": [
+      "C"
+    ],
+    "note": [
+      "Chapter Eleven: Homosexuality"
+    ],
+    "title": [
+      "United States, 94 U.S"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "D"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hardwick",
+        "given": "Bowers",
+        "particle": "v."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1986",
+      "1996"
+    ],
+    "pages": [
+      "191",
+      "2 116 620"
+    ],
+    "title": [
+      "478 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "186"
+    ]
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "Ibid., 637 (Scalia, J., dissenting). Chapter Twelve: Sexual Equality"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Boren",
+        "given": "Craig",
+        "particle": "v."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1976"
+    ],
+    "title": [
+      "429 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "190"
+    ]
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Goldberg"
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Rostker v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "453 U.S. 57"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Michael M."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "551"
+    ],
+    "title": [
+      "Superior Court of Sonoma County, 450 U.S"
+    ],
+    "type": null,
+    "volume": [
+      "464"
+    ]
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "United States"
+    ],
+    "date": [
+      "1919"
+    ],
+    "note": [
+      "Holmes, J., dissenting)."
+    ],
+    "pages": [
+      "630"
+    ],
+    "title": [
+      "Term comes from Justice Oliver Wendell Holmes in Abrams v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "250 U.S. 616"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "McConnell"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "2003",
+      "2000"
+    ],
+    "note": [
+      "Thomas, J., concurring and dissenting). 3. 503 U.S. 703"
+    ],
+    "title": [
+      "Federal Election Commission, 124 S.Ct"
+    ],
+    "type": null,
+    "volume": [
+      "619"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Ibid"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Ibid"
+    ],
+    "date": [
+      "2002"
+    ],
+    "director": [
+      {
+        "family": "Scalia",
+        "given": "J."
+      },
+      {
+        "given": "dissenting)"
+      }
+    ],
+    "pages": [
+      "7",
+      "107–155"
+    ],
+    "publisher": [
+      "Public Law"
+    ],
+    "title": [
+      "742",
+      "5"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "749. 6. Ibid., 764"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "F.E.C."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "location": [
+      "Chapter Fourteen"
+    ],
+    "publisher": [
+      "Non-Speech and Un-Free Speech"
+    ],
+    "title": [
+      "Wisconsin Right to Life, 551 U.S. 449"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Glen Theater",
+        "given": "Barnes",
+        "particle": "v."
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Pap’s A.M., 529 U.S"
+    ],
+    "date": [
+      "1991",
+      "2000"
+    ],
+    "pages": [
+      "277"
+    ],
+    "title": [
+      "501 U.S",
+      "and City of Erie v",
+      "Chapter Sixteen: Other “Rights"
+    ],
+    "type": "chapter",
+    "volume": [
+      "560"
+    ]
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "location": [
+      "Chicago v"
+    ],
+    "note": [
+      "Morales, 527 U.S. 41, 85 (1999) (Scalia, J., dissenting)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Carlton"
+    ],
+    "date": [
+      "1994"
+    ],
+    "note": [
+      "Scalia, J., concurring in judgment). 3. Ibid., 41–42. Epilogue: Scalia’s Legacy"
+    ],
+    "pages": [
+      "40"
+    ],
+    "title": [
+      "United States v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "512 U.S. 26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Board",
+        "given": "Editorial"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "New York Times"
+    ],
+    "date": [
+      "2016-02-13"
+    ],
+    "title": [
+      "Justice Antonin Scalia’s Supreme Court Legacy"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.nytimes.com/2016/02/13/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tribe",
+        "given": "Laurence H."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Wall Street Journal",
+      "Boston Globe"
+    ],
+    "date": [
+      "2016-02-16",
+      "2016-02-17"
+    ],
+    "issue": [
+      "ttp://www.wsj.com/articles/scalias-legacy-and-the-court-1455467765"
+    ],
+    "note": [
+      "552 Notes"
+    ],
+    "pages": [
+      "3",
+      "2016 02 17 – – – – 40"
+    ],
+    "title": [
+      "Scalia’s Legacy and the Court",
+      "The Legacy of Antonin Scalia—the Unrelenting Provoker"
+    ],
+    "type": "article-journal",
+    "url": [
+      "https://www.bostonglobe."
+    ],
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Sunstein",
+        "given": "Cass"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Chicago Tribune"
+    ],
+    "date": [
+      "2016-02-15"
+    ],
+    "title": [
+      "The Antonin Scalia I Knew Will Be Greatly Missed"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.chicagotribune.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rosen",
+        "given": "Jeffrey"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Atlantic"
+    ],
+    "date": [
+      "2016-02-15"
+    ],
+    "title": [
+      "What Made Antonin Scalia Great"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.theatlantic.com/politics/archive/2016/02/whatmade-antonin-scalia-great/462837/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Barnett",
+        "given": "Randy"
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Scalia’s Infidelity: A Critique of Faint-Hearted Originalism"
+    ],
+    "type": null,
+    "url": [
+      "http://scholarship.law.georgetown.edu/facpub/841,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Barron",
+        "given": "Jerome A."
+      },
+      {
+        "family": "Dienes",
+        "given": "C.Thomas"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "edition": [
+      "6th"
+    ],
+    "publisher": [
+      "West Group"
+    ],
+    "title": [
+      "Constitutional Law"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Biskupic",
+        "given": "Joan"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "publisher": [
+      "Macmillan"
+    ],
+    "title": [
+      "American Original: The Life and Constitution of Supreme Court Justice Antonin Scalia"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bork",
+        "given": "Robert H."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "The Free Press"
+    ],
+    "title": [
+      "The Tempting of America: The Political Seduction of the Law"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brisbin",
+        "given": "Richard A.Justice Antonin Scalia",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Conservative Revival",
+        "particle": "the"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Hopkins University Press"
+    ],
+    "title": [
+      "The Johns"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Burton",
+        "given": "Shawn"
+      }
+    ],
+    "container-title": [
+      "University of Toledo Law Review"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "575"
+    ],
+    "title": [
+      "Justice Scalia’s Methodological Approach to Judicial Decision-Making: Political Actor or Strategic Institutionalist?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bybee",
+        "given": "Jay S."
+      }
+    ],
+    "container-title": [
+      "Notre Dame Law Review"
+    ],
+    "date": [
+      "2001-11"
+    ],
+    "pages": [
+      "269"
+    ],
+    "title": [
+      "Printz, The Unitary Executive, and the Fire in the Trash Can: Has Justice Scalia Picked the Court’s Pocket?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "77"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Calabresi",
+        "given": "Steven G."
+      },
+      {
+        "family": "Braga",
+        "given": "Justin"
+      },
+      {
+        "family": "Carter",
+        "given": "Stephen L."
+      }
+    ],
+    "date": [
+      "2015",
+      "1993"
+    ],
+    "publisher": [
+      "How American Law and Politics Trivialize Religious Devotion. Basic Books"
+    ],
+    "title": [
+      "The Jurisprudence of Justice Antonin Scalia: A Response to Professor Bruce Allen Murphy and Professor Justin Driver",
+      "The Culture of Disbelief"
+    ],
+    "type": "book",
+    "url": [
+      "http://papers.ssrn.com/sol3/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chemerinsky",
+        "given": "Erwin"
+      }
+    ],
+    "container-title": [
+      "Hawaii Law Review"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "385"
+    ],
+    "title": [
+      "The Jurisprudence of Justice Scalia: A Critical Appraisal"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clark",
+        "given": "Bradford R."
+      }
+    ],
+    "container-title": [
+      "St. Louis Law Journal"
+    ],
+    "issue": [
+      "Spring 2003"
+    ],
+    "pages": [
+      "753"
+    ],
+    "title": [
+      "The Constitutional Structure and the Jurisprudence of Justice Scalia"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Colby",
+        "given": "Thomas B."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "note": [
+      "100 Northwestern University Law Review 1097"
+    ],
+    "title": [
+      "A Constitutional Hierarchy of Religions? Justice Scalia, The Ten Commandments, and the Future of the Establishment Clause"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Driver",
+        "given": "Justin"
+      }
+    ],
+    "date": [
+      "2014-09-09"
+    ],
+    "location": [
+      "New Republic"
+    ],
+    "title": [
+      "How Scalia’s Beliefs Completely Changed the Supreme Court"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Elsasser",
+        "given": "Glen"
+      }
+    ],
+    "container-title": [
+      "Chicago Tribune"
+    ],
+    "date": [
+      "1997-05-27"
+    ],
+    "title": [
+      "No Contest: Top Court’s Top Fighter is Scalia, Verbal Combat is Conservative’s Forte"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Eskridge",
+        "given": "William N.",
+        "suffix": "Jr."
+      }
+    ],
+    "container-title": [
+      "UCLA Law Review"
+    ],
+    "date": [
+      "1990-04"
+    ],
+    "pages": [
+      "621"
+    ],
+    "title": [
+      "The New Textualism"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Failinger",
+        "given": "Marie A."
+      }
+    ],
+    "container-title": [
+      "University of Toledo Law Review"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "425"
+    ],
+    "title": [
+      "Not Mere Rhetoric: On Wasting or Claiming Your Legacy, Justice Scalia"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fox",
+        "given": "Autumn"
+      },
+      {
+        "family": "McAllister",
+        "given": "Stephen R."
+      }
+    ],
+    "container-title": [
+      "Campbell Law Review"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "223"
+    ],
+    "title": [
+      "An Eagle Soaring: The Jurisprudence of Justice Antonin Scalia"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Frank",
+        "given": "Barney"
+      }
+    ],
+    "date": [
+      "1997-07-15"
+    ],
+    "edition": [
+      "daily"
+    ],
+    "pages": [
+      "5185"
+    ],
+    "title": [
+      "Statement. Congressional Record 143"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Friedman",
+        "given": "Lawrence M."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "W.W. Norton & Company"
+    ],
+    "title": [
+      "American Law: An Introduction"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Frost",
+        "given": "Michael"
+      }
+    ],
+    "container-title": [
+      "Kentucky Law Review"
+    ],
+    "date": [
+      "2002 / 2003"
+    ],
+    "pages": [
+      "167"
+    ],
+    "title": [
+      "Justice Scalia’s Rhetoric of Dissent: A Greco-Roman Analysis of Scalia’s Advocacy in the VMI Case"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "91"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gerhardt",
+        "given": "Michael J."
+      }
+    ],
+    "container-title": [
+      "Boston University Law Review"
+    ],
+    "date": [
+      "1994-01"
+    ],
+    "pages": [
+      "25"
+    ],
+    "title": [
+      "A Tale of Two Textualists: A Critical Comparison of Justices Black and Scalia"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "74"
+    ]
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "editor": [
+      {
+        "family": "Hall",
+        "given": "Kermit L."
+      }
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "The Oxford Guide to United States Supreme Court Decisions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kannar",
+        "given": "George"
+      }
+    ],
+    "container-title": [
+      "Yale Law Journal"
+    ],
+    "date": [
+      "1990-04"
+    ],
+    "pages": [
+      "1297"
+    ],
+    "title": [
+      "The Constitutional Catechism of Antonin Scalia"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "99"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Karkkainen",
+        "given": "Bradley C."
+      }
+    ],
+    "container-title": [
+      "Harvard Journal of Law & Public Policy"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "401"
+    ],
+    "title": [
+      "‘Plain Meaning’: Justice Scalia’s Jurisprudence of Strict Statutory Construction"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kelley",
+        "given": "William K."
+      }
+    ],
+    "container-title": [
+      "George Washington Law Review"
+    ],
+    "date": [
+      "2012"
+    ],
+    "note": [
+      "found online at:"
+    ],
+    "title": [
+      "Justice Antonin Scalia and the Long Game"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koby",
+        "given": "Michael H."
+      }
+    ],
+    "container-title": [
+      "Harvard Journal on Legis"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "369"
+    ],
+    "title": [
+      "The Supreme Court’s Declining Reliance on Legislative History: The Impact of Justice Scalia’s Critique"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koskela",
+        "given": "Alice"
+      }
+    ],
+    "container-title": [
+      "Advocate (Idaho"
+    ],
+    "date": [
+      "2000-10"
+    ],
+    "pages": [
+      "31"
+    ],
+    "title": [
+      "Scalia Shows Textualists Have a Sense of Humor"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "43"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lamparello",
+        "given": "Adam"
+      },
+      {
+        "family": "MacLean",
+        "given": "Charles E."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "genre": [
+      "44"
+    ],
+    "publisher": [
+      "University of Memphis Law Review"
+    ],
+    "title": [
+      "It’s the People’s Constitution, Stupid: Two Liberals Pay Tribute to Antonin Scalia’s Legacy"
+    ],
+    "type": null,
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Marquand",
+        "given": "Robert"
+      }
+    ],
+    "container-title": [
+      "The Christian Science Monitor"
+    ],
+    "date": [
+      "1998-03-03"
+    ],
+    "title": [
+      "High Court’s Colorful Man in Black"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Mauro",
+        "given": "Tony"
+      }
+    ],
+    "container-title": [
+      "Legal Times"
+    ],
+    "date": [
+      "1990-07-09"
+    ],
+    "pages": [
+      "10"
+    ],
+    "title": [
+      "High Court Adjourns for the Summer Intact"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Murphy",
+        "given": "Bruce Allen"
+      }
+    ],
+    "container-title": [
+      "Public Law"
+    ],
+    "date": [
+      "2014",
+      "2002"
+    ],
+    "publisher": [
+      "Simon & Schuster"
+    ],
+    "title": [
+      "Scalia: A Court of One"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "107-155"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reid",
+        "given": "Harry"
+      }
+    ],
+    "date": [
+      "1999-02-12"
+    ],
+    "edition": [
+      "daily"
+    ],
+    "pages": [
+      "1579"
+    ],
+    "title": [
+      "Statement. Congressional Record 145"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Reid",
+        "given": "Harry"
+      }
+    ],
+    "date": [
+      "2000-04-13"
+    ],
+    "edition": [
+      "daily"
+    ],
+    "pages": [
+      "2653"
+    ],
+    "title": [
+      "Statement. Congressional Record 146"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rosen",
+        "given": "Jeffrey"
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "publisher": [
+      "Times Books"
+    ],
+    "title": [
+      "The Supreme Court: The Personalities and Rivalries That Defined America"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rossum",
+        "given": "Ralph A."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "publisher": [
+      "University Press of Kansas"
+    ],
+    "title": [
+      "Antonin Scalia’s Jurisprudence: Text and Tradition"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Scalia",
+        "given": "Antonin"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "editor": [
+      {
+        "family": "Grutman",
+        "given": "Amy"
+      }
+    ],
+    "publisher": [
+      "Princeton U. Press"
+    ],
+    "title": [
+      "A Matter of Interpretation: Federal Courts and the Law"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Scalia",
+        "given": "Antonin"
+      }
+    ],
+    "container-title": [
+      "University of Cincinnati Law Review"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "849"
+    ],
+    "title": [
+      "Originalism: The Lesser Evil"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "57"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Scalia",
+        "given": "Antonin"
+      },
+      {
+        "family": "Scalia",
+        "particle": "com/archive/legaldocs/rights/scalia.html."
+      },
+      {
+        "given": "Antonin"
+      }
+    ],
+    "container-title": [
+      "University of Chicago Law Review"
+    ],
+    "date": [
+      "1996-10-18",
+      "1989",
+      "2012"
+    ],
+    "editor": [
+      {
+        "family": "Scalia",
+        "given": "Antonin"
+      },
+      {
+        "family": "Garner",
+        "given": "Bryan"
+      }
+    ],
+    "location": [
+      "Washington, D.C",
+      "Reading Law"
+    ],
+    "pages": [
+      "1175"
+    ],
+    "publisher": [
+      "The Interpretation of Legal Texts. Thomson West"
+    ],
+    "title": [
+      "Remarks at the Catholic University of America",
+      "The Rule of Law as a Law of Rules"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.courttv."
+    ],
+    "volume": [
+      "56"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schultz",
+        "given": "David A."
+      },
+      {
+        "family": "Smith",
+        "given": "Christopher E."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "Rowman & Littlefield Publishers, Inc"
+    ],
+    "title": [
+      "The Jurisprudential Vision of Justice Antonin Scalia"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Simon",
+        "given": "James F."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Simon & Schuster"
+    ],
+    "title": [
+      "The Center Holds: The Power Struggle Inside the Rehnquist Court"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "Christopher E."
+      },
+      {
+        "family": "McCall",
+        "given": "Madhavi"
+      }
+    ],
+    "container-title": [
+      "University of Toledo Law Review"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "535"
+    ],
+    "title": [
+      "Justice Scalia’s Influence on Criminal Justice"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Starr",
+        "given": "Kenneth W."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Warner Books"
+    ],
+    "title": [
+      "First Among Equals: The Supreme Court in American Life"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sullivan",
+        "given": "Kathleen M."
+      }
+    ],
+    "container-title": [
+      "Hawaii Law Review"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "449"
+    ],
+    "title": [
+      "Justice Scalia and the Religion Clauses"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sunstein",
+        "given": "Cass R."
+      }
+    ],
+    "container-title": [
+      "Yale Law Journal"
+    ],
+    "date": [
+      "1997-11"
+    ],
+    "pages": [
+      "529"
+    ],
+    "title": [
+      "Justice Scalia’s Democratic Formalism"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "107"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Thro",
+        "given": "William E."
+      }
+    ],
+    "note": [
+      "33 Journal of College & University Law (2006): 169."
+    ],
+    "title": [
+      "Limiting Judges: A Review of Ralph A. Rossum’s Antonin Scalia’s Jurisprudence"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Tribe",
+        "given": "Laurence"
+      },
+      {
+        "family": "Matz",
+        "given": "Joshua"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "publisher": [
+      "Henry Holt and Company"
+    ],
+    "title": [
+      "Uncertain Justice: The Roberts Court and the Constitution"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tushnet",
+        "given": "Mark"
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "publisher": [
+      "W.W. Norton"
+    ],
+    "title": [
+      "A Court Divided: The Rehnquist Court and the Future of Constitutional Law"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Senate",
+        "given": "U.S.Congress"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "note": [
+      "Hearing 99-1064 before the Committee on the Judiciary. 99th Congress, 2nd sess.,"
+    ],
+    "title": [
+      "Committee on the Judiciary. Nomination of Judge Antonin Scalia to be Associate Justice of the Supreme Court of the U.S"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Zlotnick",
+        "given": "David M."
+      }
+    ],
+    "container-title": [
+      "Emory Law Journal"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "1377"
+    ],
+    "title": [
+      "Justice Scalia and His Critics: An Exploration of Scalia’s Fidelity to His Constitutional Methodology"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "48"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Constructors",
+        "given": "Adarand"
+      },
+      {
+        "family": "Pena",
+        "given": "Inc",
+        "particle": "v."
+      }
+    ],
+    "container-title": [
+      "Felton"
+    ],
+    "date": [
+      "1995",
+      "1997"
+    ],
+    "title": [
+      "515 U.S",
+      "Agostini v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "200",
+      "521 U.S. 203"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Akron"
+      }
+    ],
+    "container-title": [
+      "Health",
+      "Virginia"
+    ],
+    "date": [
+      "1983",
+      "2002",
+      "2012"
+    ],
+    "pages": [
+      "132 2492"
+    ],
+    "publisher": [
+      "United States"
+    ],
+    "title": [
+      "Akron Center for Reprod",
+      "Atkins v",
+      "Arizona v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "462 U.S. 416",
+      "535 U.S. 304"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Austin"
+      }
+    ],
+    "date": [
+      "1990",
+      "1991"
+    ],
+    "pages": [
+      "501 560"
+    ],
+    "publisher": [
+      "Glen Theater, Inc"
+    ],
+    "title": [
+      "Michigan Chamber of Commerce, 494 U.S",
+      "Barnes v"
+    ],
+    "type": "book",
+    "volume": [
+      "652"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Comm’r",
+        "given": "Bd",
+        "particle": "of"
+      },
+      {
+        "family": "Grumet",
+        "given": "Bd",
+        "particle": "of Educ. of Kiryas Joel v."
+      }
+    ],
+    "container-title": [
+      "Umbehr",
+      "Sharpe",
+      "Bush",
+      "Hardwick",
+      "Valeo",
+      "Collins",
+      "Morales",
+      "FEC"
+    ],
+    "date": [
+      "1996",
+      "1994",
+      "1954",
+      "2008",
+      "1986",
+      "1976",
+      "1994",
+      "1999",
+      "2010",
+      "2000"
+    ],
+    "pages": [
+      "529 277"
+    ],
+    "publisher": [
+      "Pap’s A.M"
+    ],
+    "title": [
+      "Wabaunsee County v",
+      "512 U.S",
+      "Bolling v",
+      "Boumediene v",
+      "Bowers v",
+      "Buckley v",
+      "Callins v",
+      "Chicago v",
+      "Citizens United v",
+      "City of Erie v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "518 U.S. 668",
+      "687",
+      "347 U.S. 497",
+      "553 U.S. 723",
+      "478 U.S. 186",
+      "424 U.S. 1",
+      "510 U.S. 1141",
+      "527 U.S. 41",
+      "558 U.S. 310"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Public Educ.",
+        "given": "Comm",
+        "particle": "for"
+      },
+      {
+        "family": "Regan",
+        "given": "Religious Liberty",
+        "particle": "v."
+      },
+      {
+        "family": "D.C",
+        "given": "U.S.App"
+      }
+    ],
+    "container-title": [
+      "Aniskoff",
+      "Boren",
+      "Dep’t. of Health",
+      "Heller",
+      "United States"
+    ],
+    "date": [
+      "1980",
+      "1993",
+      "1976",
+      "1990",
+      "2008",
+      "1954",
+      "1972"
+    ],
+    "director": [
+      {
+        "family": "Dir.",
+        "given": "Mo"
+      }
+    ],
+    "pages": [
+      "228",
+      "405 438"
+    ],
+    "publisher": [
+      "Baird"
+    ],
+    "title": [
+      "444 U.S",
+      "Conroy v",
+      "Craig v",
+      "Cruzan v",
+      "District of Columbia v",
+      "Durham v",
+      "Eisenstadt v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "646",
+      "507 U.S. 511",
+      "429 U.S. 190",
+      "497 U.S. 261",
+      "554 U.S. 570",
+      "94"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "Employment Division",
+        "particle": "of Oregon v."
+      }
+    ],
+    "container-title": [
+      "Inc",
+      "Klutznick",
+      "Georgia",
+      "Gross",
+      "Weinberger",
+      "Carhart"
+    ],
+    "date": [
+      "1990",
+      "2007",
+      "1980",
+      "1972",
+      "2015",
+      "1986",
+      "2007"
+    ],
+    "title": [
+      "494 U.S",
+      "FEC v. Wisconsin Right to Life",
+      "Fullilove v",
+      "Furman v",
+      "Glossip v",
+      "Goldman v",
+      "Gonzalez v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "872",
+      "551 U.S. 449",
+      "448 U.S. 448",
+      "408 U.S. 238",
+      "576 U.S",
+      "475 U.S. 503",
+      "550 U.S. 124"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Milford Central School",
+        "given": "Good News Club",
+        "particle": "v."
+      }
+    ],
+    "container-title": [
+      "Ct",
+      "Connecticut",
+      "Ct",
+      "Colorado"
+    ],
+    "date": [
+      "2001",
+      "2003",
+      "1965",
+      "2003",
+      "2000",
+      "1990"
+    ],
+    "pages": [
+      "497 417"
+    ],
+    "publisher": [
+      "Minnesota"
+    ],
+    "title": [
+      "533 U.S",
+      "Gratz v. Bollinger, 123 S",
+      "Griswold v",
+      "Grutter v. Bollinger, 123 S",
+      "Hill v",
+      "Hodgson v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "98",
+      "2411",
+      "381 U.S. 479",
+      "2325",
+      "503 U.S. 703"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Advanced Micro Devices",
+        "given": "Intel Corp",
+        "particle": "v."
+      }
+    ],
+    "container-title": [
+      "Inc",
+      "Mortier",
+      "United States",
+      "United States",
+      "United States"
+    ],
+    "date": [
+      "2004",
+      "1991",
+      "2015",
+      "2014",
+      "1944",
+      "2001"
+    ],
+    "pages": [
+      "135 475"
+    ],
+    "publisher": [
+      "Burwell"
+    ],
+    "title": [
+      "Intervenor v",
+      "Johnson v",
+      "King v",
+      "Korematsu v",
+      "Kyollo v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "542 U.S. 241",
+      "501U.S. 597",
+      "576 U.S",
+      "323 U.S. 214",
+      "533 U.S. 27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Lamb’s Chapel"
+      },
+      {
+        "family": "Ct",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Ct",
+      "Weisman",
+      "Kurtzman",
+      "Madison",
+      "Craig"
+    ],
+    "date": [
+      "1993",
+      "2003",
+      "1992",
+      "1971",
+      "1803",
+      "1991",
+      "1990",
+      "1958",
+      "2003"
+    ],
+    "note": [
+      "MCI Telecomm. v. AT&T, 512 U.S. 218 (1994)."
+    ],
+    "pages": [
+      "532 661",
+      "133",
+      "124 619"
+    ],
+    "publisher": [
+      "PGA Tour, Inc",
+      "King",
+      "FEC"
+    ],
+    "title": [
+      "Center Moriches School District, 508 U.S",
+      "Lawrence v. Texas, 123 S",
+      "Lee v",
+      "Lemon v",
+      "Marbury v",
+      "Martin v",
+      "Maryland v",
+      "Maryland v",
+      "McConnell v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "384",
+      "2472",
+      "505 U.S. 577",
+      "403 U.S. 602",
+      "5 U.S. 137",
+      "497 U.S. 836"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Michael M."
+      }
+    ],
+    "container-title": [
+      "United States",
+      "Olsen"
+    ],
+    "date": [
+      "1981",
+      "1989",
+      "1988",
+      "1996"
+    ],
+    "pages": [
+      "517 186"
+    ],
+    "publisher": [
+      "Republican Party of Virginia"
+    ],
+    "title": [
+      "Superior Court of Sonoma County, 450 U.S",
+      "Mistretta v",
+      "Morrison v",
+      "Morse v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "464",
+      "488 U.S. 361",
+      "487 U.S. 654"
+    ]
+  },
+  {
+    "container-title": [
+      "Finley"
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "National Endowment for the Arts v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "524 U.S. 569"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ct",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Ct",
+      "Lynaugh"
+    ],
+    "date": [
+      "2012",
+      "2071",
+      "1989"
+    ],
+    "pages": [
+      "135"
+    ],
+    "publisher": [
+      "Hodges"
+    ],
+    "title": [
+      "National Federation of Independent Business v. Sebelius, 132 S",
+      "Obergefell v",
+      "Penry v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2566",
+      "492 U.S. 302"
+    ]
+  },
+  {
+    "container-title": [
+      "Casey",
+      "Spendthrift Farm",
+      "Illinois",
+      "Bush",
+      "Chapman",
+      "Wade",
+      "Evans",
+      "Simmons",
+      "Goldberg",
+      "Verner",
+      "United States",
+      "Kentucky",
+      "Carhart",
+      "Ct",
+      "Oklahoma",
+      "Granville",
+      "Carlton",
+      "Eichman",
+      "Jaffree"
+    ],
+    "date": [
+      "1992",
+      "1995",
+      "1987",
+      "2004",
+      "1981",
+      "1989",
+      "1973",
+      "1996",
+      "2005",
+      "1981",
+      "1956",
+      "1963",
+      "1993",
+      "1989",
+      "2000",
+      "2011",
+      "1988",
+      "2000",
+      "1994",
+      "1990",
+      "1996",
+      "2013",
+      "1985"
+    ],
+    "editor": [
+      {
+        "given": "Sanford"
+      }
+    ],
+    "pages": [
+      "488 469",
+      "518 515",
+      "133 2675"
+    ],
+    "publisher": [
+      "J.A. Croson Co",
+      "Va",
+      "Windsor"
+    ],
+    "title": [
+      "Planned Parenthood of Southeastern Pennsylvania v",
+      "Plaut v",
+      "Pope v",
+      "Rasul v",
+      "Rhodes v",
+      "Richmond v",
+      "Roe v",
+      "Romer v",
+      "Roper v",
+      "Rostker v",
+      "Scott v",
+      "Sherbert v",
+      "Smith v",
+      "Stanford v",
+      "Stenberg v",
+      "Sykes v. United States, 131 S",
+      "Thompson v",
+      "Troxel v",
+      "United States v",
+      "United States v",
+      "United States v",
+      "United States v",
+      "Wallace v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "505 U.S. 833",
+      "514 U.S. 211",
+      "481 U.S. 497",
+      "542 U.S. 466",
+      "452 U.S. 337",
+      "410 U.S. 113",
+      "116 U.S. 1620",
+      "543 U.S. 551",
+      "453 U.S. 57",
+      "60 U.S. 393",
+      "374 U.S. 398",
+      "508 U.S. 223",
+      "492 U.S. 361",
+      "530 U.S. 914",
+      "2267",
+      "487 U.S. 815",
+      "530 U.S. 57",
+      "512 U.S. 26",
+      "496 U.S. 310",
+      "472 U.S. 38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Webster"
+      }
+    ],
+    "container-title": [
+      "Filburn"
+    ],
+    "date": [
+      "1989",
+      "1942"
+    ],
+    "title": [
+      "Reproductive Health Services, 492 U.S",
+      "Wickard v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "490",
+      "317 U.S. 111"
+    ]
+  },
+  {
+    "container-title": [
+      "Mortier",
+      "Simmons-Harris",
+      "Clauson"
+    ],
+    "date": [
+      "1991",
+      "2002",
+      "1952"
+    ],
+    "publisher": [
+      "INDEX ?"
+    ],
+    "title": [
+      "Wisconsin Public Intervenor v",
+      "Zelman v",
+      "Zorach v"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "501U.S. 597",
+      "536 U.S. 639",
+      "343 U.S. 306"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "v",
+        "given": "Akron"
+      }
+    ],
+    "location": [
+      "Akron I"
+    ],
+    "note": [
+      "99–100, 204"
+    ],
+    "title": [
+      "Akron Center for Reproduc-American Psychological Association, tive Health, Inc"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Griffin",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Bill of Rights"
+    ],
+    "date": [
+      "191, 193–95, 197–Bickel"
+    ],
+    "note": [
+      "BCRA (Bipartisan Campaign Finance Reform Act), 448–50, 466–67 C Beethoven, Ludwig van, 485, 495 capital punishment,",
+      "See also death penalty 147–48, 151, 153, 157–58, 180, Carlton, United States v.,",
+      "397, Casey (Planned Parenthood of South-409, 443, 446, 457, 461, 472, eastern Pennsylvania v. Casey), xiii, 501, 525–26. See also individual 10, 126–30, 356–62, 365"
+    ],
+    "pages": [
+      "175–77, 180– ,",
+      "183–84,",
+      "46–47,",
+      "222–25",
+      "364–66,"
+    ],
+    "title": [
+      "Alexander, 77, 82 98, 200–1, 208–9, 217–18, 220"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6",
+      "69 81",
+      "3, 42",
+      "91, 137",
+      "526–27 275, 304, 318, 336"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Marriage Act",
+        "given": "Defense",
+        "particle": "of"
+      },
+      {
+        "family": "Easterbrook",
+        "given": "Frank H."
+      }
+    ],
+    "container-title": [
+      "E disability",
+      "discrimination",
+      "education",
+      "Fifth Amendment"
+    ],
+    "date": [
+      "286, 292",
+      "408"
+    ],
+    "genre": [
+      "employment,"
+    ],
+    "location": [
+      "Elkhart County"
+    ],
+    "note": [
+      "on basis of homosexual behavior, Education Amendments (1972), 416 370–73 Eichman, United States v., 14, 444, on basis of race, 74–90, 97, 328, 475, 480 438, 488 Eighth Amendment,",
+      "224 228, 249, 383–84 Cruel and Unusual Clause of, 6, Due Process Clause of. See Due 17, 175–77, 180, 182, 192, 194, Process Clause 197, 218–19 Grand Jury Clause of, 175, 220 Eisenstadt v. Baird, 364–65 fingerprinting, 229,"
+    ],
+    "pages": [
+      "386–92",
+      "40",
+      "26–28, 73–90,",
+      "372–73,",
+      "86–90,",
+      "488–90, 299–300,",
+      "404–8, 492–94 410–11,",
+      "425–42,",
+      "487 40",
+      "409–11,",
+      "416–420,",
+      "432–41",
+      "175–78,",
+      "26–27 180–81,",
+      "187–88,",
+      "215–17, 219–20,",
+      "218–19,",
+      "235–36,",
+      "322 240–45"
+    ],
+    "publisher": [
+      "IN"
+    ],
+    "title": [
+      "444, 457, on basis of disability",
+      "school prayer” cases and, 293–94 on basis of gender, 408, 413–14, single-sex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "376–77, 383–84",
+      "24, 27, 34, 38",
+      "24",
+      "477 97, 308, 328, 370",
+      "80",
+      "212, 294, 413, 420, 438, 455, 485",
+      "304, 349, 374",
+      "416",
+      "24, 27, 34, 38, 463, 470",
+      "406",
+      "413",
+      "422, 425, 437 18, 422, 425–27, 429",
+      "18",
+      "185",
+      "192, 196–98, 203, 213",
+      "73, 175",
+      "230"
+    ]
+  },
+  {
+    "container-title": [
+      "First Amendment, xi",
+      "Smith",
+      "Equal Protection Clause",
+      "homosexuals and",
+      "election-related speech and",
+      "race and",
+      "Free Exercise Clause of"
+    ],
+    "date": [
+      "11"
+    ],
+    "note": [
+      "86 Establishment Clause of. See Estab-Scalia’s interpretation of, 5, 12–13 lishment Clause Establishment Clause, xi, 8, 11, 212, extension of,",
+      "322 Free Speech Clause of, 14, Ethics in Government Act (1978), 300. See also free speech 43, 64, 71 indecency laws and, 361, 475–80 Ex parte Milligan, 262–64, 266–6 political speech and, 4, 18, 443, Ex parte Quirin, 256, 265–67 446, 490, 460, 465–68, 472–73, 475, 492 right to criticize government and, F 4, 449–50, 467"
+    ],
+    "pages": [
+      "8–9,",
+      "277,",
+      "148,",
+      "12–13,",
+      "277–79,",
+      "297–301,",
+      "356–57,",
+      "369–71,",
+      "443–50, 452–53, 455–60, 403–5, 408–9,",
+      "467–73,",
+      "403–5,",
+      "475–76, 485 433, 438 , 300",
+      "356–57,",
+      "383–84, 401 446",
+      "73–74,",
+      "277–82, 285–86,",
+      "291–",
+      "298–302,",
+      "482 312–16,"
+    ],
+    "title": [
+      "Employment Division of Oregon v",
+      "475–77, 479–84, application of tests and, 408–11 491–92, 494 distribution of contraceptives to anti-abortion protest and, 444 unmarried persons and, 91, 365 artists seeking federal subsidies and, gender and"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4",
+      "13",
+      "482 14, 110, 133, 137, 139, 145",
+      "5",
+      "156, 275",
+      "284",
+      "73–74, 84, 86, 354",
+      "365, 304, 306, 313–14, 316, 332, 338",
+      "375, 383–84, 397, 401, 407",
+      "427, 433, 438, 536 465",
+      "73",
+      "408, 427",
+      "73, 354",
+      "444, 369–71, 375",
+      "12",
+      "443 275",
+      "289",
+      "275, 277, 92, 296",
+      "304, 307, 310, 300, 309, 316, 396"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Act",
+        "given": "Federal Election Campaign Act Flag Protection"
+      }
+    ],
+    "container-title": [
+      "Federal Election Commission"
+    ],
+    "date": [
+      "1989",
+      "1971"
+    ],
+    "issue": [
+      "m, 3, 41, 382, 384, 389"
+    ],
+    "note": [
+      "399, Feingold, Russell, 465 Index 565"
+    ],
+    "pages": [
+      "76–77,",
+      "165–466–67",
+      "501 365–66,",
+      "396–97,"
+    ],
+    "title": [
+      "447 Fourteenth Amendment, 7, 12–13"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4",
+      "447, 73",
+      "80, 86, 91, 104",
+      "383, 393"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perry",
+        "given": "V.U.",
+        "particle": "Van Orden v."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "128 416, 498"
+    ],
+    "title": [
+      "304 “undue burden” standard, 95, Violence Against Women Act"
+    ],
+    "type": null,
+    "volume": [
+      "99–100, 105, 108–16, 119"
+    ]
+  },
+  {
+    "container-title": [
+      "Lawrence",
+      "theory regarding"
+    ],
+    "date": [
+      "283, 292, 304"
+    ],
+    "location": [
+      "Washington, George",
+      "Webster v"
+    ],
+    "note": [
+      "United States Air Force Academy, Virginia, United States v., 403–4 410 Virginia Military Institute (VMI), United States Catholic Conference, 404–42 186–87 Virginia Women’s Institute for United States Constitution. See also Leadership (VWIL), 430–31,",
+      "Reproductive Health Services, See also originalism 93–95 Scalia’s method of interpreting, Weinberger, Caspar, 45 1–11 West Point (United States Military “strict constructionists” and, 8–9, Academy), 410, 420 94 West Virginia State Board of Education unreasonable searches and seizures v. Barnette, 288–89, 293 prohibited under, 2, 5, 18, 227– White, Byron, 353 29, 231–33, 396 joining Scalia’s opinion in Lee v."
+    ],
+    "pages": [
+      "218–19",
+      "314"
+    ],
+    "title": [
+      "437 individual clauses amendments to. See Bill of Rights capital punishment and death pen- W alty contemplated by, 6, 176, Walsh",
+      "living",
+      "original intent” of Framers and, 8"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10, 45 187",
+      "6–7 310"
+    ]
+  },
+  {
+    "pages": [
+      "280"
+    ],
+    "publisher": [
+      "Annap- Weisman"
+    ],
+    "title": [
+      "United States Naval Academy"
+    ],
+    "type": "book"
+  }
+]
